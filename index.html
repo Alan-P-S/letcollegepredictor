@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LET College Predictor</title>
+
+<style>
+body{
+    font-family: Arial,sans-serif;
+    max-width:1200px;
+    margin:auto;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+.controls{
+    display:flex;
+    gap:10px;
+    margin-bottom:20px;
+}
+
+input,select{
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+th,td{
+    border:1px solid #ddd;
+    padding:8px;
+    text-align:left;
+}
+
+th{
+    background:#f5f5f5;
+}
+
+.safe{
+    color:green;
+    font-weight:bold;
+}
+
+.medium{
+    color:orange;
+    font-weight:bold;
+}
+
+.high{
+    color:red;
+    font-weight:bold;
+}
+</style>
+</head>
+<body>
+
+<h1>Kerala LET College Predictor</h1>
+
+<div class="controls">
+    <input
+        type="number"
+        id="rank"
+        placeholder="Enter Rank"
+    >
+
+    <select id="category">
+        <option value="SM">SM</option>
+        <option value="EZ">EZ</option>
+        <option value="MU">MU</option>
+        <option value="BH">BH</option>
+        <option value="LC">LC</option>
+        <option value="DV">DV</option>
+        <option value="KU">KU</option>
+    </select>
+
+    <button onclick="predict()">
+        Predict
+    </button>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>College</th>
+            <th>Course</th>
+            <th>Closing Rank</th>
+            <th>Chance</th>
+        </tr>
+    </thead>
+
+    <tbody id="results"></tbody>
+</table>
+
+<script>
+
+let cutoffs = [];
+
+async function loadData() {
+
+    const res = await fetch("./cutoffs.json");
+
+    cutoffs = await res.json();
+
+    console.log(
+        "Loaded",
+        cutoffs.length,
+        "cutoffs"
+    );
+}
+
+function predict() {
+
+    const rank =
+        Number(
+            document.getElementById("rank").value
+        );
+
+    const category =
+        document.getElementById("category").value;
+
+    const possible = cutoffs
+        .filter(c =>
+            c.category === category &&
+            c.closingRank >= rank
+        )
+        .sort(
+            (a,b) =>
+                a.closingRank -
+                b.closingRank
+        );
+
+    const tbody =
+        document.getElementById("results");
+
+    tbody.innerHTML = "";
+
+    possible.forEach(item => {
+
+        const diff =
+            item.closingRank - rank;
+
+        let chance = "";
+        let cls = "";
+
+        if(diff <= 100){
+            chance = "Competitive";
+            cls = "high";
+        }
+        else if(diff <= 500){
+            chance = "Likely";
+            cls = "medium";
+        }
+        else{
+            chance = "Safe";
+            cls = "safe";
+        }
+
+        tbody.innerHTML += `
+        <tr>
+            <td>${item.collegeName}</td>
+            <td>${item.courseName}</td>
+            <td>${item.closingRank}</td>
+            <td class="${cls}">
+                ${chance}
+            </td>
+        </tr>
+        `;
+    });
+}
+
+loadData();
+
+</script>
+
+</body>
+</html>
