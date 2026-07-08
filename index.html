@@ -7,29 +7,80 @@
 
 <style>
 body{
-    font-family: Arial,sans-serif;
-    max-width:1200px;
-    margin:auto;
-    padding:20px;
+    margin:0;
+    font-family:Segoe UI,Tahoma,sans-serif;
+    background:#f1f5f9;
+    color:#1e293b;
 }
 
-h1{
+.header{
+    background:linear-gradient(
+        135deg,
+        #0d47a1,
+        #1565c0
+    );
+    color:white;
+    padding:30px;
     text-align:center;
+    box-shadow:0 4px 15px rgba(0,0,0,.15);
+}
+
+.header h1{
+    margin:0;
+    font-size:32px;
+}
+
+.header p{
+    margin-top:8px;
+    opacity:.9;
+}
+
+.container{
+    max-width:1200px;
+    margin:25px auto;
+    padding:0 15px;
 }
 
 .controls{
+    background:white;
+    border-radius:12px;
+    padding:20px;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
     display:flex;
-    gap:10px;
-    margin-bottom:20px;
+    gap:12px;
+    flex-wrap:wrap;
 }
 
-input,select{
-    padding:10px;
+input,
+select{
+    flex:1;
+    min-width:180px;
+    padding:12px;
+    border:1px solid #cbd5e1;
+    border-radius:8px;
+    font-size:15px;
 }
 
 button{
-    padding:10px 20px;
+    background:#1565c0;
+    color:white;
+    border:none;
+    border-radius:8px;
+    padding:12px 20px;
     cursor:pointer;
+    font-weight:600;
+}
+
+button:hover{
+    background:#0d47a1;
+}
+
+.table-wrapper{
+    margin-top:20px;
+    background:white;
+    border-radius:12px;
+    overflow:hidden;
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
 }
 
 table{
@@ -37,35 +88,52 @@ table{
     border-collapse:collapse;
 }
 
-th,td{
-    border:1px solid #ddd;
-    padding:8px;
+thead{
+    background:#1565c0;
+    color:white;
+}
+.high{
+    color: red;
+}
+.medium{
+    color:orange;
+}
+.safe{
+    color: green;
+}
+th{
+    padding:14px;
     text-align:left;
 }
 
-th{
-    background:#f5f5f5;
+td{
+    padding:12px 14px;
+    border-bottom:1px solid #e2e8f0;
+}
+
+tbody tr:hover{
+    background:#f8fafc;
 }
 
 .safe{
-    color:green;
-    font-weight:bold;
+    color:#16a34a;
+    font-weight:700;
 }
 
-.medium{
-    color:orange;
-    font-weight:bold;
+.likely{
+    color:#ca8a04;
+    font-weight:700;
 }
 
-.high{
-    color:red;
-    font-weight:bold;
+.borderline{
+    color:#dc2626;
+    font-weight:700;
 }
 </style>
 </head>
 <body>
 
-<h1>Kerala LET College Predictor</h1>
+<center><h1>Kerala LET College Predictor</h1><p>Based on Trail Allotment</p><p>After search wait for 5-10s to load</p></center>
 
 <div class="controls">
     <input
