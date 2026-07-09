@@ -5,7 +5,7 @@
     "courseId": "1",
     "courseName": "aeronautical engineering",
     "category": "SM",
-    "closingRank": 3980
+    "closingRank": 4001
   },
   {
     "collegeId": "49",
@@ -13,7 +13,7 @@
     "courseId": "1",
     "courseName": "aeronautical engineering",
     "category": "SM",
-    "closingRank": 3250
+    "closingRank": 3815
   },
   {
     "collegeId": "84",
@@ -24,12 +24,28 @@
     "closingRank": 2811
   },
   {
+    "collegeId": "93",
+    "collegeName": "RAJADHANI INSTITUTE OF ENGINEERING AND TECHNOLOGY NAGAROOR",
+    "courseId": "1",
+    "courseName": "aeronautical engineering",
+    "category": "SM",
+    "closingRank": 3980
+  },
+  {
     "collegeId": "45",
     "collegeName": "ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY",
     "courseId": "2",
     "courseName": "agriculture engineering",
     "category": "SM",
-    "closingRank": 2627
+    "closingRank": 3647
+  },
+  {
+    "collegeId": "91",
+    "collegeName": "P A AZIZ COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courseId": "2",
+    "courseName": "agriculture engineering",
+    "category": "SM",
+    "closingRank": 3406
   },
   {
     "collegeId": "30",
@@ -69,7 +85,7 @@
     "courseId": "3",
     "courseName": "applied electronics and instrumentation engineering",
     "category": "SM",
-    "closingRank": 705
+    "closingRank": 575
   },
   {
     "collegeId": "37",
@@ -93,7 +109,7 @@
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "SM",
-    "closingRank": 1590
+    "closingRank": 3695
   },
   {
     "collegeId": "8",
@@ -101,15 +117,7 @@
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "SM",
-    "closingRank": 2178
-  },
-  {
-    "collegeId": "8",
-    "collegeName": "AWH ENGINEERING COLLEGE",
-    "courseId": "5",
-    "courseName": "artificial intelligence and data science",
-    "category": "EZ",
-    "closingRank": 3650
+    "closingRank": 3172
   },
   {
     "collegeId": "18",
@@ -117,15 +125,7 @@
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "SM",
-    "closingRank": 1480
-  },
-  {
-    "collegeId": "18",
-    "collegeName": "COLLEGE OF ENGINEERING CHERTHALA",
-    "courseId": "5",
-    "courseName": "artificial intelligence and data science",
-    "category": "VK",
-    "closingRank": 3890
+    "closingRank": 1609
   },
   {
     "collegeId": "20",
@@ -149,7 +149,7 @@
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "SM",
-    "closingRank": 2217
+    "closingRank": 2488
   },
   {
     "collegeId": "42",
@@ -176,12 +176,20 @@
     "closingRank": 4181
   },
   {
+    "collegeId": "53",
+    "collegeName": "KMCT COLLEGE OF ENGINEERING FOR EMERGING TECHNOLOGIES AND MANAGEMENT, KASARAGOD",
+    "courseId": "5",
+    "courseName": "artificial intelligence and data science",
+    "category": "SM",
+    "closingRank": 4225
+  },
+  {
     "collegeId": "57",
     "collegeName": "KMCT COLLEGE OF ENGINEERING FOR EMERGING TECHNOLOGIES AND MANAGEMENT, PERINTHALMANNA",
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "SM",
-    "closingRank": 3070
+    "closingRank": 4067
   },
   {
     "collegeId": "54",
@@ -208,20 +216,12 @@
     "closingRank": 2490
   },
   {
-    "collegeId": "76",
-    "collegeName": "MES COLLEGE OF ENGINEERING AND TECHNOLOGY KUNNUKARA",
-    "courseId": "5",
-    "courseName": "artificial intelligence and data science",
-    "category": "SM",
-    "closingRank": 3427
-  },
-  {
     "collegeId": "77",
     "collegeName": "MES COLLEGE OF ENGINEERING KUTTIPPURAM",
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "SM",
-    "closingRank": 2622
+    "closingRank": 2682
   },
   {
     "collegeId": "77",
@@ -229,15 +229,15 @@
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "MU",
-    "closingRank": 3040
+    "closingRank": 2741
   },
   {
-    "collegeId": "79",
-    "collegeName": "MET'S SCHOOL OF ENGINEERING MALA",
+    "collegeId": "103",
+    "collegeName": "SREE NARAYANA GURU COLLEGE OF ENGINEERING & TECHNOLOGY, PAYYANUR",
     "courseId": "5",
     "courseName": "artificial intelligence and data science",
     "category": "SM",
-    "closingRank": 4474
+    "closingRank": 3427
   },
   {
     "collegeId": "106",
@@ -264,14 +264,6 @@
     "closingRank": 3321
   },
   {
-    "collegeId": "20",
-    "collegeName": "COLLEGE OF ENGINEERING KARUNAGAPPALLY",
-    "courseId": "6",
-    "courseName": "artificial intelligence and data science - full fee",
-    "category": "SM",
-    "closingRank": 2397
-  },
-  {
     "collegeId": "1",
     "collegeName": "ACE COLLEGE OF ENGINEERING",
     "courseId": "7",
@@ -293,7 +285,7 @@
     "courseId": "7",
     "courseName": "artificial intelligence and machine learning",
     "category": "SM",
-    "closingRank": 1960
+    "closingRank": 3445
   },
   {
     "collegeId": "14",
@@ -301,7 +293,7 @@
     "courseId": "7",
     "courseName": "artificial intelligence and machine learning",
     "category": "SM",
-    "closingRank": 4283
+    "closingRank": 3998
   },
   {
     "collegeId": "46",
@@ -312,20 +304,12 @@
     "closingRank": 4299
   },
   {
-    "collegeId": "67",
-    "collegeName": "MALABAR COLLEGE OF ENGINEERING &TECHNOLOGY",
-    "courseId": "7",
-    "courseName": "artificial intelligence and machine learning",
-    "category": "SM",
-    "closingRank": 3869
-  },
-  {
     "collegeId": "69",
     "collegeName": "MANGALAM COLLEGE OF ENGINEERING",
     "courseId": "7",
     "courseName": "artificial intelligence and machine learning",
     "category": "SM",
-    "closingRank": 3770
+    "closingRank": 1590
   },
   {
     "collegeId": "70",
@@ -333,7 +317,7 @@
     "courseId": "7",
     "courseName": "artificial intelligence and machine learning",
     "category": "SM",
-    "closingRank": 267
+    "closingRank": 424
   },
   {
     "collegeId": "70",
@@ -357,15 +341,15 @@
     "courseId": "7",
     "courseName": "artificial intelligence and machine learning",
     "category": "SM",
-    "closingRank": 3568
+    "closingRank": 3684
   },
   {
-    "collegeId": "81",
-    "collegeName": "MGM TECHNOLOGICAL CAMPUS",
+    "collegeId": "80",
+    "collegeName": "MGM COLLEGE OF ENGINEERING AND TECHNOLOGY",
     "courseId": "7",
     "courseName": "artificial intelligence and machine learning",
     "category": "SM",
-    "closingRank": 4286
+    "closingRank": 1058
   },
   {
     "collegeId": "104",
@@ -376,20 +360,12 @@
     "closingRank": 3566
   },
   {
-    "collegeId": "105",
-    "collegeName": "SREE NARAYANA INSTITUTE OF TECHNOLOGY ADOOR",
-    "courseId": "7",
-    "courseName": "artificial intelligence and machine learning",
-    "category": "SM",
-    "closingRank": 1298
-  },
-  {
     "collegeId": "123",
     "collegeName": "VIDYA ACADEMY OF SCIENCE & TECHNOLOGY, THRISSUR",
     "courseId": "7",
     "courseName": "artificial intelligence and machine learning",
     "category": "SM",
-    "closingRank": 3046
+    "closingRank": 1959
   },
   {
     "collegeId": "5",
@@ -405,6 +381,14 @@
     "courseId": "8",
     "courseName": "automobile engineering",
     "category": "SM",
+    "closingRank": 3434
+  },
+  {
+    "collegeId": "52",
+    "collegeName": "KMCT COLLEGE OF ENGINEERING",
+    "courseId": "8",
+    "courseName": "automobile engineering",
+    "category": "MU",
     "closingRank": 4369
   },
   {
@@ -413,7 +397,7 @@
     "courseId": "8",
     "courseName": "automobile engineering",
     "category": "SM",
-    "closingRank": 2928
+    "closingRank": 2842
   },
   {
     "collegeId": "99",
@@ -485,7 +469,7 @@
     "courseId": "10",
     "courseName": "biomedical engineering",
     "category": "SM",
-    "closingRank": 3304
+    "closingRank": 3045
   },
   {
     "collegeId": "67",
@@ -493,7 +477,7 @@
     "courseId": "10",
     "courseName": "biomedical engineering",
     "category": "EZ",
-    "closingRank": 4500
+    "closingRank": 4246
   },
   {
     "collegeId": "93",
@@ -528,20 +512,12 @@
     "closingRank": 4552
   },
   {
-    "collegeId": "97",
-    "collegeName": "SAHRDAYA COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "collegeId": "79",
+    "collegeName": "MET'S SCHOOL OF ENGINEERING MALA",
     "courseId": "11",
     "courseName": "biotechnology",
     "category": "SM",
-    "closingRank": 3817
-  },
-  {
-    "collegeId": "83",
-    "collegeName": "MOHANDAS COLLEGE OF ENGINEERING AND TECHNOLOGY",
-    "courseId": "12",
-    "courseName": "biotechnology and biochemical engineering",
-    "category": "SM",
-    "closingRank": 4190
+    "closingRank": 2363
   },
   {
     "collegeId": "101",
@@ -557,7 +533,7 @@
     "courseId": "12",
     "courseName": "biotechnology and biochemical engineering",
     "category": "MU",
-    "closingRank": 3597
+    "closingRank": 3927
   },
   {
     "collegeId": "102",
@@ -573,7 +549,7 @@
     "courseId": "12",
     "courseName": "biotechnology and biochemical engineering",
     "category": "SC",
-    "closingRank": 3776
+    "closingRank": 3817
   },
   {
     "collegeId": "7",
@@ -597,15 +573,7 @@
     "courseId": "14",
     "courseName": "chemical engineering",
     "category": "SM",
-    "closingRank": 576
-  },
-  {
-    "collegeId": "37",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE KOZHIKODE",
-    "courseId": "14",
-    "courseName": "chemical engineering",
-    "category": "MU",
-    "closingRank": 638
+    "closingRank": 659
   },
   {
     "collegeId": "37",
@@ -613,7 +581,15 @@
     "courseId": "14",
     "courseName": "chemical engineering",
     "category": "EZ",
-    "closingRank": 659
+    "closingRank": 744
+  },
+  {
+    "collegeId": "37",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE KOZHIKODE",
+    "courseId": "14",
+    "courseName": "chemical engineering",
+    "category": "MU",
+    "closingRank": 762
   },
   {
     "collegeId": "37",
@@ -652,14 +628,6 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "courseId": "14",
     "courseName": "chemical engineering",
-    "category": "EZ",
-    "closingRank": 289
-  },
-  {
-    "collegeId": "39",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
-    "courseId": "14",
-    "courseName": "chemical engineering",
     "category": "BH",
     "closingRank": 316
   },
@@ -684,6 +652,14 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "courseId": "14",
     "courseName": "chemical engineering",
+    "category": "EZ",
+    "closingRank": 460
+  },
+  {
+    "collegeId": "39",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
+    "courseId": "14",
+    "courseName": "chemical engineering",
     "category": "LC",
     "closingRank": 2967
   },
@@ -701,7 +677,7 @@
     "courseId": "14",
     "courseName": "chemical engineering",
     "category": "SM",
-    "closingRank": 616
+    "closingRank": 519
   },
   {
     "collegeId": "112",
@@ -709,7 +685,7 @@
     "courseId": "14",
     "courseName": "chemical engineering",
     "category": "MU",
-    "closingRank": 762
+    "closingRank": 616
   },
   {
     "collegeId": "112",
@@ -717,7 +693,7 @@
     "courseId": "14",
     "courseName": "chemical engineering",
     "category": "SC",
-    "closingRank": 1923
+    "closingRank": 1694
   },
   {
     "collegeId": "114",
@@ -725,7 +701,7 @@
     "courseId": "14",
     "courseName": "chemical engineering",
     "category": "SM",
-    "closingRank": 4143
+    "closingRank": 4129
   },
   {
     "collegeId": "114",
@@ -734,6 +710,14 @@
     "courseName": "chemical engineering",
     "category": "EZ",
     "closingRank": 4461
+  },
+  {
+    "collegeId": "114",
+    "collegeName": "TOMS COLLEGE OF ENGINEERING",
+    "courseId": "14",
+    "courseName": "chemical engineering",
+    "category": "SC",
+    "closingRank": 4426
   },
   {
     "collegeId": "114",
@@ -749,7 +733,7 @@
     "courseId": "15",
     "courseName": "civil and environmental engineering",
     "category": "SM",
-    "closingRank": 698
+    "closingRank": 500
   },
   {
     "collegeId": "40",
@@ -757,7 +741,15 @@
     "courseId": "15",
     "courseName": "civil and environmental engineering",
     "category": "EZ",
-    "closingRank": 1017
+    "closingRank": 698
+  },
+  {
+    "collegeId": "42",
+    "collegeName": "HOLY GRACE ACADEMY OF ENGINEERING",
+    "courseId": "15",
+    "courseName": "civil and environmental engineering",
+    "category": "SM",
+    "closingRank": 834
   },
   {
     "collegeId": "1",
@@ -765,7 +757,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2421
+    "closingRank": 2392
+  },
+  {
+    "collegeId": "1",
+    "collegeName": "ACE COLLEGE OF ENGINEERING",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "MU",
+    "closingRank": 2737
   },
   {
     "collegeId": "2",
@@ -789,7 +789,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 3624
+    "closingRank": 4305
   },
   {
     "collegeId": "4",
@@ -800,12 +800,20 @@
     "closingRank": 4377
   },
   {
+    "collegeId": "6",
+    "collegeName": "ALBERTIAN INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
+    "closingRank": 4480
+  },
+  {
     "collegeId": "7",
     "collegeName": "AMAL JYOTHI COLLEGE OF ENGINEERING",
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1570
+    "closingRank": 1509
   },
   {
     "collegeId": "8",
@@ -813,7 +821,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2684
+    "closingRank": 2765
   },
   {
     "collegeId": "8",
@@ -829,7 +837,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "MU",
-    "closingRank": 2836
+    "closingRank": 2938
+  },
+  {
+    "collegeId": "8",
+    "collegeName": "AWH ENGINEERING COLLEGE",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "VK",
+    "closingRank": 3180
   },
   {
     "collegeId": "8",
@@ -853,7 +869,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 4551
+    "closingRank": 3950
   },
   {
     "collegeId": "10",
@@ -861,7 +877,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2501
+    "closingRank": 2725
   },
   {
     "collegeId": "11",
@@ -869,6 +885,14 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
+    "closingRank": 4032
+  },
+  {
+    "collegeId": "11",
+    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "MU",
     "closingRank": 4163
   },
   {
@@ -877,7 +901,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "EZ",
-    "closingRank": 4483
+    "closingRank": 4515
   },
   {
     "collegeId": "11",
@@ -893,7 +917,23 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 4251
+    "closingRank": 2829
+  },
+  {
+    "collegeId": "12",
+    "collegeName": "CARMEL COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EZ",
+    "closingRank": 4264
+  },
+  {
+    "collegeId": "12",
+    "collegeName": "CARMEL COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "MU",
+    "closingRank": 4510
   },
   {
     "collegeId": "14",
@@ -901,6 +941,14 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
+    "closingRank": 3551
+  },
+  {
+    "collegeId": "14",
+    "collegeName": "COLLEGE OF ENGINEERING AND TECHNOLOGY PAYYANUR",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EZ",
     "closingRank": 3581
   },
   {
@@ -910,14 +958,6 @@
     "courseName": "civil engineering",
     "category": "MU",
     "closingRank": 3759
-  },
-  {
-    "collegeId": "14",
-    "collegeName": "COLLEGE OF ENGINEERING AND TECHNOLOGY PAYYANUR",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "EZ",
-    "closingRank": 4191
   },
   {
     "collegeId": "15",
@@ -957,7 +997,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 894
+    "closingRank": 781
   },
   {
     "collegeId": "28",
@@ -981,7 +1021,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2799
+    "closingRank": 2743
   },
   {
     "collegeId": "29",
@@ -989,7 +1029,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "EZ",
-    "closingRank": 4346
+    "closingRank": 3234
+  },
+  {
+    "collegeId": "29",
+    "collegeName": "COLLEGE OF ENGINEERING TRIKARIPUR",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EWS",
+    "closingRank": 3319
   },
   {
     "collegeId": "29",
@@ -1000,20 +1048,28 @@
     "closingRank": 3795
   },
   {
-    "collegeId": "30",
-    "collegeName": "COLLEGE OF ENGINEERING TRIVANDRUM",
+    "collegeId": "29",
+    "collegeName": "COLLEGE OF ENGINEERING TRIKARIPUR",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "SM",
-    "closingRank": 108
+    "category": "SC",
+    "closingRank": 3484
+  },
+  {
+    "collegeId": "29",
+    "collegeName": "COLLEGE OF ENGINEERING TRIKARIPUR",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "BH",
+    "closingRank": 3880
   },
   {
     "collegeId": "30",
     "collegeName": "COLLEGE OF ENGINEERING TRIVANDRUM",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "EZ",
-    "closingRank": 158
+    "category": "SM",
+    "closingRank": 125
   },
   {
     "collegeId": "30",
@@ -1022,6 +1078,14 @@
     "courseName": "civil engineering",
     "category": "MU",
     "closingRank": 126
+  },
+  {
+    "collegeId": "30",
+    "collegeName": "COLLEGE OF ENGINEERING TRIVANDRUM",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EZ",
+    "closingRank": 167
   },
   {
     "collegeId": "30",
@@ -1037,7 +1101,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SC",
-    "closingRank": 770
+    "closingRank": 594
   },
   {
     "collegeId": "31",
@@ -1045,15 +1109,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1859
+    "closingRank": 1653
   },
   {
     "collegeId": "31",
     "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "EZ",
-    "closingRank": 2268
+    "category": "BH",
+    "closingRank": 1655
   },
   {
     "collegeId": "31",
@@ -1061,7 +1125,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "VK",
-    "closingRank": 2308
+    "closingRank": 1763
+  },
+  {
+    "collegeId": "31",
+    "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EZ",
+    "closingRank": 1949
   },
   {
     "collegeId": "31",
@@ -1069,7 +1141,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "MU",
-    "closingRank": 3381
+    "closingRank": 2578
   },
   {
     "collegeId": "31",
@@ -1077,7 +1149,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SC",
-    "closingRank": 2994
+    "closingRank": 2680
   },
   {
     "collegeId": "31",
@@ -1085,7 +1157,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "EWS",
-    "closingRank": 3437
+    "closingRank": 2948
   },
   {
     "collegeId": "31",
@@ -1094,14 +1166,6 @@
     "courseName": "civil engineering",
     "category": "ST",
     "closingRank": 3220
-  },
-  {
-    "collegeId": "31",
-    "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "BH",
-    "closingRank": 3411
   },
   {
     "collegeId": "32",
@@ -1196,16 +1260,16 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "SC",
-    "closingRank": 539
+    "category": "MU",
+    "closingRank": 552
   },
   {
     "collegeId": "35",
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "MU",
-    "closingRank": 552
+    "category": "SC",
+    "closingRank": 770
   },
   {
     "collegeId": "35",
@@ -1261,7 +1325,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "PD",
-    "closingRank": 4266
+    "closingRank": 3894
   },
   {
     "collegeId": "38",
@@ -1293,7 +1357,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "EWS",
-    "closingRank": 780
+    "closingRank": 1007
   },
   {
     "collegeId": "38",
@@ -1309,7 +1373,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 167
+    "closingRank": 139
   },
   {
     "collegeId": "39",
@@ -1348,6 +1412,14 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "courseId": "16",
     "courseName": "civil engineering",
+    "category": "BX",
+    "closingRank": 2319
+  },
+  {
+    "collegeId": "39",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
+    "courseId": "16",
+    "courseName": "civil engineering",
     "category": "SD",
     "closingRank": 3074
   },
@@ -1357,7 +1429,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1766
+    "closingRank": 1977
+  },
+  {
+    "collegeId": "42",
+    "collegeName": "HOLY GRACE ACADEMY OF ENGINEERING",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "MU",
+    "closingRank": 2273
   },
   {
     "collegeId": "44",
@@ -1365,7 +1445,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2094
+    "closingRank": 2908
   },
   {
     "collegeId": "45",
@@ -1373,7 +1453,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1279
+    "closingRank": 1407
+  },
+  {
+    "collegeId": "45",
+    "collegeName": "ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "VK",
+    "closingRank": 3672
   },
   {
     "collegeId": "46",
@@ -1381,7 +1469,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 3297
+    "closingRank": 3572
+  },
+  {
+    "collegeId": "50",
+    "collegeName": "JOHN COX MEMORIAL CSI INSTITUTE OF TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
+    "closingRank": 2597
   },
   {
     "collegeId": "51",
@@ -1397,14 +1493,6 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1671
-  },
-  {
-    "collegeId": "52",
-    "collegeName": "KMCT COLLEGE OF ENGINEERING",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "MU",
     "closingRank": 1731
   },
   {
@@ -1413,15 +1501,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "BH",
-    "closingRank": 1789
+    "closingRank": 1776
   },
   {
     "collegeId": "52",
     "collegeName": "KMCT COLLEGE OF ENGINEERING",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "EZ",
-    "closingRank": 2283
+    "category": "MU",
+    "closingRank": 1946
   },
   {
     "collegeId": "52",
@@ -1430,6 +1518,14 @@
     "courseName": "civil engineering",
     "category": "VK",
     "closingRank": 2261
+  },
+  {
+    "collegeId": "52",
+    "collegeName": "KMCT COLLEGE OF ENGINEERING",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EZ",
+    "closingRank": 2378
   },
   {
     "collegeId": "52",
@@ -1453,7 +1549,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2134
+    "closingRank": 2144
   },
   {
     "collegeId": "55",
@@ -1461,7 +1557,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "EZ",
-    "closingRank": 4387
+    "closingRank": 3181
   },
   {
     "collegeId": "59",
@@ -1469,7 +1565,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 3009
+    "closingRank": 3710
   },
   {
     "collegeId": "59",
@@ -1477,7 +1573,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "MU",
-    "closingRank": 3091
+    "closingRank": 3848
   },
   {
     "collegeId": "62",
@@ -1492,6 +1588,14 @@
     "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
     "courseId": "16",
     "courseName": "civil engineering",
+    "category": "MU",
+    "closingRank": 1216
+  },
+  {
+    "collegeId": "62",
+    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
+    "courseId": "16",
+    "courseName": "civil engineering",
     "category": "EZ",
     "closingRank": 1244
   },
@@ -1500,16 +1604,16 @@
     "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "VK",
-    "closingRank": 2875
+    "category": "BH",
+    "closingRank": 1765
   },
   {
     "collegeId": "62",
     "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "MU",
-    "closingRank": 3086
+    "category": "VK",
+    "closingRank": 2875
   },
   {
     "collegeId": "62",
@@ -1528,20 +1632,12 @@
     "closingRank": 3586
   },
   {
-    "collegeId": "62",
-    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "BH",
-    "closingRank": 3880
-  },
-  {
     "collegeId": "63",
     "collegeName": "LBS INSTITUTE OF TECHNOLOGY FOR WOMEN",
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2319
+    "closingRank": 2149
   },
   {
     "collegeId": "63",
@@ -1564,8 +1660,8 @@
     "collegeName": "LBS INSTITUTE OF TECHNOLOGY FOR WOMEN",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "EZ",
-    "closingRank": 4077
+    "category": "MU",
+    "closingRank": 3086
   },
   {
     "collegeId": "64",
@@ -1581,14 +1677,6 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2873
-  },
-  {
-    "collegeId": "65",
-    "collegeName": "M DASAN INSTITUTE OF TECHNOLOGY",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "EZ",
     "closingRank": 2874
   },
   {
@@ -1598,6 +1686,14 @@
     "courseName": "civil engineering",
     "category": "MU",
     "closingRank": 3149
+  },
+  {
+    "collegeId": "65",
+    "collegeName": "M DASAN INSTITUTE OF TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EZ",
+    "closingRank": 3829
   },
   {
     "collegeId": "66",
@@ -1613,7 +1709,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 4515
+    "closingRank": 4413
   },
   {
     "collegeId": "69",
@@ -1629,6 +1725,14 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
+    "closingRank": 449
+  },
+  {
+    "collegeId": "70",
+    "collegeName": "MAR ATHANASIUS COLLEGE OF ENGINEERING",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EZ",
     "closingRank": 514
   },
   {
@@ -1652,14 +1756,6 @@
     "collegeName": "MAR ATHANASIUS COLLEGE OF ENGINEERING",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "EZ",
-    "closingRank": 600
-  },
-  {
-    "collegeId": "70",
-    "collegeName": "MAR ATHANASIUS COLLEGE OF ENGINEERING",
-    "courseId": "16",
-    "courseName": "civil engineering",
     "category": "SC",
     "closingRank": 604
   },
@@ -1677,6 +1773,14 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
+    "closingRank": 1432
+  },
+  {
+    "collegeId": "73",
+    "collegeName": "MARIAN ENGINEERING COLLEGE",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
     "closingRank": 2918
   },
   {
@@ -1685,7 +1789,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1003
+    "closingRank": 1638
   },
   {
     "collegeId": "74",
@@ -1701,7 +1805,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 3408
+    "closingRank": 3622
   },
   {
     "collegeId": "77",
@@ -1709,7 +1813,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1016
+    "closingRank": 865
   },
   {
     "collegeId": "77",
@@ -1720,12 +1824,36 @@
     "closingRank": 1393
   },
   {
+    "collegeId": "78",
+    "collegeName": "MES INSTITUTE OF TECHNOLOGY AND MANAGEMENT KOLLAM",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
+    "closingRank": 780
+  },
+  {
     "collegeId": "79",
     "collegeName": "MET'S SCHOOL OF ENGINEERING MALA",
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
     "closingRank": 3662
+  },
+  {
+    "collegeId": "83",
+    "collegeName": "MOHANDAS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
+    "closingRank": 1464
+  },
+  {
+    "collegeId": "85",
+    "collegeName": "MUSALIAR COLLEGE OF ENGINEERING & TECHNOLOGY PATHANAMTHITTA",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
+    "closingRank": 4551
   },
   {
     "collegeId": "86",
@@ -1741,7 +1869,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 3278
+    "closingRank": 3715
   },
   {
     "collegeId": "89",
@@ -1757,7 +1885,15 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 386
+    "closingRank": 365
+  },
+  {
+    "collegeId": "90",
+    "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "MU",
+    "closingRank": 391
   },
   {
     "collegeId": "90",
@@ -1772,8 +1908,8 @@
     "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
     "courseId": "16",
     "courseName": "civil engineering",
-    "category": "MU",
-    "closingRank": 490
+    "category": "SC",
+    "closingRank": 905
   },
   {
     "collegeId": "90",
@@ -1781,15 +1917,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "EWS",
-    "closingRank": 675
-  },
-  {
-    "collegeId": "90",
-    "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "SC",
-    "closingRank": 905
+    "closingRank": 1015
   },
   {
     "collegeId": "92",
@@ -1805,7 +1933,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1428
+    "closingRank": 393
   },
   {
     "collegeId": "93",
@@ -1821,22 +1949,6 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 381
-  },
-  {
-    "collegeId": "95",
-    "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "MU",
-    "closingRank": 391
-  },
-  {
-    "collegeId": "95",
-    "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "EWS",
     "closingRank": 445
   },
   {
@@ -1852,8 +1964,24 @@
     "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
     "courseId": "16",
     "courseName": "civil engineering",
+    "category": "MU",
+    "closingRank": 490
+  },
+  {
+    "collegeId": "95",
+    "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
+    "courseId": "16",
+    "courseName": "civil engineering",
     "category": "EZ",
     "closingRank": 491
+  },
+  {
+    "collegeId": "95",
+    "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "EWS",
+    "closingRank": 675
   },
   {
     "collegeId": "95",
@@ -1877,7 +2005,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SC",
-    "closingRank": 3645
+    "closingRank": 2981
   },
   {
     "collegeId": "96",
@@ -1885,7 +2013,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "MU",
-    "closingRank": 3526
+    "closingRank": 3114
   },
   {
     "collegeId": "97",
@@ -1896,12 +2024,20 @@
     "closingRank": 976
   },
   {
+    "collegeId": "98",
+    "collegeName": "SARABHAI INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
+    "closingRank": 3127
+  },
+  {
     "collegeId": "99",
     "collegeName": "SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY",
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 4480
+    "closingRank": 3850
   },
   {
     "collegeId": "100",
@@ -1917,7 +2053,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 1841
+    "closingRank": 2848
   },
   {
     "collegeId": "103",
@@ -1925,7 +2061,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 4413
+    "closingRank": 3652
   },
   {
     "collegeId": "103",
@@ -1933,15 +2069,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "EZ",
-    "closingRank": 4443
-  },
-  {
-    "collegeId": "105",
-    "collegeName": "SREE NARAYANA INSTITUTE OF TECHNOLOGY ADOOR",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "SM",
-    "closingRank": 3622
+    "closingRank": 4253
   },
   {
     "collegeId": "106",
@@ -1981,7 +2109,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 4305
+    "closingRank": 4542
   },
   {
     "collegeId": "110",
@@ -1989,7 +2117,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 3822
+    "closingRank": 4124
   },
   {
     "collegeId": "111",
@@ -2013,7 +2141,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 346
+    "closingRank": 354
   },
   {
     "collegeId": "112",
@@ -2048,6 +2176,14 @@
     "closingRank": 4504
   },
   {
+    "collegeId": "116",
+    "collegeName": "TRINITY COLLEGE OF ENGINEERING",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SM",
+    "closingRank": 3990
+  },
+  {
     "collegeId": "117",
     "collegeName": "UKF COLLEGE OF ENGINEERING & TECHNOLOGY",
     "courseId": "16",
@@ -2061,14 +2197,6 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2819
-  },
-  {
-    "collegeId": "118",
-    "collegeName": "UNIVERSAL ENGINEERING COLLEGE",
-    "courseId": "16",
-    "courseName": "civil engineering",
-    "category": "SC",
     "closingRank": 2911
   },
   {
@@ -2080,12 +2208,28 @@
     "closingRank": 3510
   },
   {
+    "collegeId": "118",
+    "collegeName": "UNIVERSAL ENGINEERING COLLEGE",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "MU",
+    "closingRank": 3526
+  },
+  {
+    "collegeId": "118",
+    "collegeName": "UNIVERSAL ENGINEERING COLLEGE",
+    "courseId": "16",
+    "courseName": "civil engineering",
+    "category": "SC",
+    "closingRank": 3883
+  },
+  {
     "collegeId": "121",
     "collegeName": "VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING & TECHNOLOGY",
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2730
+    "closingRank": 4002
   },
   {
     "collegeId": "122",
@@ -2141,7 +2285,7 @@
     "courseId": "16",
     "courseName": "civil engineering",
     "category": "SM",
-    "closingRank": 2671
+    "closingRank": 1261
   },
   {
     "collegeId": "127",
@@ -2165,7 +2309,7 @@
     "courseId": "17",
     "courseName": "civil engineering - full fee",
     "category": "SM",
-    "closingRank": 3363
+    "closingRank": 3235
   },
   {
     "collegeId": "62",
@@ -2173,7 +2317,7 @@
     "courseId": "17",
     "courseName": "civil engineering - full fee",
     "category": "SM",
-    "closingRank": 3106
+    "closingRank": 3811
   },
   {
     "collegeId": "49",
@@ -2197,7 +2341,7 @@
     "courseId": "19",
     "courseName": "computer science and business systems",
     "category": "SM",
-    "closingRank": 3132
+    "closingRank": 2888
   },
   {
     "collegeId": "62",
@@ -2205,7 +2349,7 @@
     "courseId": "19",
     "courseName": "computer science and business systems",
     "category": "EZ",
-    "closingRank": 3377
+    "closingRank": 4199
   },
   {
     "collegeId": "82",
@@ -2213,7 +2357,7 @@
     "courseId": "19",
     "courseName": "computer science and business systems",
     "category": "SM",
-    "closingRank": 549
+    "closingRank": 614
   },
   {
     "collegeId": "82",
@@ -2229,7 +2373,7 @@
     "courseId": "20",
     "courseName": "computer science and business systems - full fee",
     "category": "SM",
-    "closingRank": 1850
+    "closingRank": 1704
   },
   {
     "collegeId": "37",
@@ -2237,7 +2381,7 @@
     "courseId": "21",
     "courseName": "computer science and design",
     "category": "SM",
-    "closingRank": 304
+    "closingRank": 338
   },
   {
     "collegeId": "37",
@@ -2253,7 +2397,7 @@
     "courseId": "21",
     "courseName": "computer science and design",
     "category": "EWS",
-    "closingRank": 617
+    "closingRank": 507
   },
   {
     "collegeId": "37",
@@ -2261,7 +2405,7 @@
     "courseId": "21",
     "courseName": "computer science and design",
     "category": "SC",
-    "closingRank": 1518
+    "closingRank": 1498
   },
   {
     "collegeId": "1",
@@ -2269,7 +2413,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3739
+    "closingRank": 4160
   },
   {
     "collegeId": "2",
@@ -2277,6 +2421,14 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
+    "closingRank": 2191
+  },
+  {
+    "collegeId": "2",
+    "collegeName": "ADI SHANKARA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "MU",
     "closingRank": 2641
   },
   {
@@ -2292,16 +2444,16 @@
     "collegeName": "ADI SHANKARA INSTITUTE OF ENGINEERING & TECHNOLOGY",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "MU",
-    "closingRank": 3203
-  },
-  {
-    "collegeId": "2",
-    "collegeName": "ADI SHANKARA INSTITUTE OF ENGINEERING & TECHNOLOGY",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
     "category": "SC",
     "closingRank": 3455
+  },
+  {
+    "collegeId": "3",
+    "collegeName": "AHALIA SCHOOL OF ENGINEERING AND TECHNOLOGY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SM",
+    "closingRank": 963
   },
   {
     "collegeId": "4",
@@ -2309,7 +2461,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3780
+    "closingRank": 3972
   },
   {
     "collegeId": "6",
@@ -2317,7 +2469,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3541
+    "closingRank": 2104
+  },
+  {
+    "collegeId": "6",
+    "collegeName": "ALBERTIAN INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EZ",
+    "closingRank": 2872
   },
   {
     "collegeId": "7",
@@ -2333,6 +2493,14 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
+    "closingRank": 1027
+  },
+  {
+    "collegeId": "8",
+    "collegeName": "AWH ENGINEERING COLLEGE",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EZ",
     "closingRank": 1696
   },
   {
@@ -2348,24 +2516,16 @@
     "collegeName": "AWH ENGINEERING COLLEGE",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "EZ",
-    "closingRank": 2124
-  },
-  {
-    "collegeId": "8",
-    "collegeName": "AWH ENGINEERING COLLEGE",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
     "category": "SC",
     "closingRank": 3996
   },
   {
-    "collegeId": "9",
-    "collegeName": "BASELIOS MATHEWS II COLLEGE OF ENGINEERING",
+    "collegeId": "10",
+    "collegeName": "BISHOP JEROME INSTITUTE",
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1235
+    "closingRank": 3056
   },
   {
     "collegeId": "11",
@@ -2373,15 +2533,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2068
-  },
-  {
-    "collegeId": "11",
-    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "MU",
-    "closingRank": 3644
+    "closingRank": 2563
   },
   {
     "collegeId": "11",
@@ -2408,6 +2560,22 @@
     "closingRank": 3239
   },
   {
+    "collegeId": "11",
+    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "MU",
+    "closingRank": 3644
+  },
+  {
+    "collegeId": "11",
+    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "VK",
+    "closingRank": 3682
+  },
+  {
     "collegeId": "12",
     "collegeName": "CARMEL COLLEGE OF ENGINEERING & TECHNOLOGY",
     "courseId": "22",
@@ -2428,8 +2596,8 @@
     "collegeName": "COLLEGE OF ENGINEERING ADOOR",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "EZ",
-    "closingRank": 1891
+    "category": "BH",
+    "closingRank": 1943
   },
   {
     "collegeId": "13",
@@ -2444,16 +2612,16 @@
     "collegeName": "COLLEGE OF ENGINEERING ADOOR",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "EWS",
-    "closingRank": 2093
+    "category": "EZ",
+    "closingRank": 2072
   },
   {
     "collegeId": "13",
     "collegeName": "COLLEGE OF ENGINEERING ADOOR",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "BH",
-    "closingRank": 2590
+    "category": "EWS",
+    "closingRank": 2158
   },
   {
     "collegeId": "13",
@@ -2461,7 +2629,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SC",
-    "closingRank": 3605
+    "closingRank": 3509
   },
   {
     "collegeId": "15",
@@ -2469,7 +2637,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4495
+    "closingRank": 4237
   },
   {
     "collegeId": "16",
@@ -2477,23 +2645,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1606
-  },
-  {
-    "collegeId": "16",
-    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "MU",
-    "closingRank": 1697
-  },
-  {
-    "collegeId": "16",
-    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "EWS",
-    "closingRank": 1702
+    "closingRank": 1796
   },
   {
     "collegeId": "16",
@@ -2512,12 +2664,28 @@
     "closingRank": 2321
   },
   {
+    "collegeId": "16",
+    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EWS",
+    "closingRank": 2533
+  },
+  {
+    "collegeId": "16",
+    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "MU",
+    "closingRank": 2968
+  },
+  {
     "collegeId": "17",
     "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1146
+    "closingRank": 1030
   },
   {
     "collegeId": "17",
@@ -2525,7 +2693,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 1531
+    "closingRank": 1257
   },
   {
     "collegeId": "17",
@@ -2541,7 +2709,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "MU",
-    "closingRank": 1741
+    "closingRank": 1566
   },
   {
     "collegeId": "17",
@@ -2549,7 +2717,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SC",
-    "closingRank": 2042
+    "closingRank": 1935
   },
   {
     "collegeId": "18",
@@ -2557,7 +2725,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1370
+    "closingRank": 1108
+  },
+  {
+    "collegeId": "18",
+    "collegeName": "COLLEGE OF ENGINEERING CHERTHALA",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EWS",
+    "closingRank": 1357
   },
   {
     "collegeId": "18",
@@ -2605,6 +2781,14 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
+    "closingRank": 1576
+  },
+  {
+    "collegeId": "20",
+    "collegeName": "COLLEGE OF ENGINEERING KARUNAGAPPALLY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "MU",
     "closingRank": 1821
   },
   {
@@ -2620,16 +2804,8 @@
     "collegeName": "COLLEGE OF ENGINEERING KARUNAGAPPALLY",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "MU",
-    "closingRank": 2681
-  },
-  {
-    "collegeId": "20",
-    "collegeName": "COLLEGE OF ENGINEERING KARUNAGAPPALLY",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
     "category": "SC",
-    "closingRank": 2812
+    "closingRank": 2042
   },
   {
     "collegeId": "20",
@@ -2637,7 +2813,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 3056
+    "closingRank": 2618
   },
   {
     "collegeId": "21",
@@ -2645,7 +2821,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1491
+    "closingRank": 1741
   },
   {
     "collegeId": "21",
@@ -2669,15 +2845,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2202
-  },
-  {
-    "collegeId": "23",
-    "collegeName": "COLLEGE OF ENGINEERING MUNNAR",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "SC",
-    "closingRank": 2243
+    "closingRank": 2712
   },
   {
     "collegeId": "23",
@@ -2701,23 +2869,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2600
-  },
-  {
-    "collegeId": "24",
-    "collegeName": "COLLEGE OF ENGINEERING MUTTATHARA",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "MU",
     "closingRank": 3118
-  },
-  {
-    "collegeId": "24",
-    "collegeName": "COLLEGE OF ENGINEERING MUTTATHARA",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "BH",
-    "closingRank": 3135
   },
   {
     "collegeId": "24",
@@ -2733,7 +2885,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EWS",
-    "closingRank": 3466
+    "closingRank": 3619
+  },
+  {
+    "collegeId": "24",
+    "collegeName": "COLLEGE OF ENGINEERING MUTTATHARA",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "BH",
+    "closingRank": 3801
   },
   {
     "collegeId": "24",
@@ -2741,7 +2901,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 4278
+    "closingRank": 4077
+  },
+  {
+    "collegeId": "24",
+    "collegeName": "COLLEGE OF ENGINEERING MUTTATHARA",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "LC",
+    "closingRank": 4331
   },
   {
     "collegeId": "25",
@@ -2749,7 +2917,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4449
+    "closingRank": 4384
   },
   {
     "collegeId": "26",
@@ -2772,24 +2940,16 @@
     "collegeName": "COLLEGE OF ENGINEERING PERUMON",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "EWS",
-    "closingRank": 2158
-  },
-  {
-    "collegeId": "26",
-    "collegeName": "COLLEGE OF ENGINEERING PERUMON",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "SC",
-    "closingRank": 3409
-  },
-  {
-    "collegeId": "26",
-    "collegeName": "COLLEGE OF ENGINEERING PERUMON",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
     "category": "MU",
-    "closingRank": 3810
+    "closingRank": 2006
+  },
+  {
+    "collegeId": "26",
+    "collegeName": "COLLEGE OF ENGINEERING PERUMON",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EWS",
+    "closingRank": 2093
   },
   {
     "collegeId": "27",
@@ -2797,7 +2957,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4434
+    "closingRank": 4495
   },
   {
     "collegeId": "28",
@@ -2805,15 +2965,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 798
-  },
-  {
-    "collegeId": "28",
-    "collegeName": "COLLEGE OF ENGINEERING THALASSERY",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "EWS",
-    "closingRank": 956
+    "closingRank": 639
   },
   {
     "collegeId": "28",
@@ -2837,7 +2989,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SC",
-    "closingRank": 2572
+    "closingRank": 2033
+  },
+  {
+    "collegeId": "28",
+    "collegeName": "COLLEGE OF ENGINEERING THALASSERY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EWS",
+    "closingRank": 2389
   },
   {
     "collegeId": "29",
@@ -2853,7 +3013,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EWS",
-    "closingRank": 2200
+    "closingRank": 2338
   },
   {
     "collegeId": "29",
@@ -2877,7 +3037,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 15
+    "closingRank": 14
   },
   {
     "collegeId": "30",
@@ -2933,7 +3093,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 904
+    "closingRank": 839
   },
   {
     "collegeId": "31",
@@ -2949,7 +3109,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "BH",
-    "closingRank": 1508
+    "closingRank": 1491
   },
   {
     "collegeId": "32",
@@ -2957,7 +3117,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2489
+    "closingRank": 3970
   },
   {
     "collegeId": "34",
@@ -2972,14 +3132,6 @@
     "collegeName": "GOVERNMENT COLLEGE OF ENGINEERING KANNUR",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "MU",
-    "closingRank": 183
-  },
-  {
-    "collegeId": "34",
-    "collegeName": "GOVERNMENT COLLEGE OF ENGINEERING KANNUR",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
     "category": "EWS",
     "closingRank": 193
   },
@@ -2988,8 +3140,16 @@
     "collegeName": "GOVERNMENT COLLEGE OF ENGINEERING KANNUR",
     "courseId": "22",
     "courseName": "computer science and engineering",
+    "category": "MU",
+    "closingRank": 225
+  },
+  {
+    "collegeId": "34",
+    "collegeName": "GOVERNMENT COLLEGE OF ENGINEERING KANNUR",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 254
+    "closingRank": 279
   },
   {
     "collegeId": "36",
@@ -2997,15 +3157,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 424
-  },
-  {
-    "collegeId": "36",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "EZ",
-    "closingRank": 435
+    "closingRank": 469
   },
   {
     "collegeId": "36",
@@ -3020,8 +3172,16 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "courseId": "22",
     "courseName": "computer science and engineering",
+    "category": "EZ",
+    "closingRank": 497
+  },
+  {
+    "collegeId": "36",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
     "category": "EWS",
-    "closingRank": 903
+    "closingRank": 956
   },
   {
     "collegeId": "36",
@@ -3029,7 +3189,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SC",
-    "closingRank": 2270
+    "closingRank": 1838
   },
   {
     "collegeId": "38",
@@ -3037,14 +3197,6 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 234
-  },
-  {
-    "collegeId": "38",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE PALAKKAD",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "EZ",
     "closingRank": 280
   },
   {
@@ -3060,6 +3212,14 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE PALAKKAD",
     "courseId": "22",
     "courseName": "computer science and engineering",
+    "category": "EZ",
+    "closingRank": 334
+  },
+  {
+    "collegeId": "38",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE PALAKKAD",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
     "category": "LC",
     "closingRank": 523
   },
@@ -3069,7 +3229,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 37
+    "closingRank": 28
   },
   {
     "collegeId": "39",
@@ -3077,7 +3237,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "BH",
-    "closingRank": 89
+    "closingRank": 102
   },
   {
     "collegeId": "39",
@@ -3109,7 +3269,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 397
+    "closingRank": 387
   },
   {
     "collegeId": "40",
@@ -3117,15 +3277,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 407
-  },
-  {
-    "collegeId": "40",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "EWS",
-    "closingRank": 456
+    "closingRank": 397
   },
   {
     "collegeId": "40",
@@ -3134,6 +3286,14 @@
     "courseName": "computer science and engineering",
     "category": "VK",
     "closingRank": 479
+  },
+  {
+    "collegeId": "40",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EWS",
+    "closingRank": 502
   },
   {
     "collegeId": "40",
@@ -3157,6 +3317,14 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
+    "closingRank": 1161
+  },
+  {
+    "collegeId": "42",
+    "collegeName": "HOLY GRACE ACADEMY OF ENGINEERING",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "VK",
     "closingRank": 1436
   },
   {
@@ -3173,7 +3341,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1938
+    "closingRank": 3789
   },
   {
     "collegeId": "46",
@@ -3189,7 +3357,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1198
+    "closingRank": 1203
   },
   {
     "collegeId": "47",
@@ -3213,7 +3381,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3945
+    "closingRank": 2078
   },
   {
     "collegeId": "49",
@@ -3224,12 +3392,20 @@
     "closingRank": 1376
   },
   {
+    "collegeId": "50",
+    "collegeName": "JOHN COX MEMORIAL CSI INSTITUTE OF TECHNOLOGY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SM",
+    "closingRank": 4449
+  },
+  {
     "collegeId": "51",
     "collegeName": "JYOTHI ENGINEERING COLLEGE",
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3265
+    "closingRank": 1880
   },
   {
     "collegeId": "52",
@@ -3237,7 +3413,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1406
+    "closingRank": 1592
   },
   {
     "collegeId": "52",
@@ -3245,7 +3421,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 1487
+    "closingRank": 1626
   },
   {
     "collegeId": "52",
@@ -3253,7 +3429,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "MU",
-    "closingRank": 3707
+    "closingRank": 2391
   },
   {
     "collegeId": "57",
@@ -3261,7 +3437,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1263
+    "closingRank": 2065
   },
   {
     "collegeId": "54",
@@ -3293,7 +3469,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3701
+    "closingRank": 4259
   },
   {
     "collegeId": "58",
@@ -3301,7 +3477,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1672
+    "closingRank": 3679
   },
   {
     "collegeId": "59",
@@ -3309,7 +3485,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4198
+    "closingRank": 3336
+  },
+  {
+    "collegeId": "60",
+    "collegeName": "KOTTAYAM INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SM",
+    "closingRank": 4474
   },
   {
     "collegeId": "62",
@@ -3317,7 +3501,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1368
+    "closingRank": 1290
   },
   {
     "collegeId": "62",
@@ -3340,8 +3524,8 @@
     "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "SC",
-    "closingRank": 4308
+    "category": "EWS",
+    "closingRank": 2665
   },
   {
     "collegeId": "62",
@@ -3356,8 +3540,8 @@
     "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "EWS",
-    "closingRank": 2665
+    "category": "SC",
+    "closingRank": 4308
   },
   {
     "collegeId": "63",
@@ -3365,7 +3549,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2965
+    "closingRank": 2690
   },
   {
     "collegeId": "63",
@@ -3381,7 +3565,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 3845
+    "closingRank": 4387
   },
   {
     "collegeId": "63",
@@ -3392,12 +3576,28 @@
     "closingRank": 4416
   },
   {
+    "collegeId": "64",
+    "collegeName": "LOURDES MATHA COLLEGE OF SCIENCE AND TECHNOLOGY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SM",
+    "closingRank": 3332
+  },
+  {
     "collegeId": "65",
     "collegeName": "M DASAN INSTITUTE OF TECHNOLOGY",
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4422
+    "closingRank": 3286
+  },
+  {
+    "collegeId": "65",
+    "collegeName": "M DASAN INSTITUTE OF TECHNOLOGY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "MU",
+    "closingRank": 4356
   },
   {
     "collegeId": "68",
@@ -3421,7 +3621,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 56
+    "closingRank": 152
   },
   {
     "collegeId": "70",
@@ -3429,7 +3629,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SC",
-    "closingRank": 1707
+    "closingRank": 666
   },
   {
     "collegeId": "70",
@@ -3445,7 +3645,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3619
+    "closingRank": 4411
   },
   {
     "collegeId": "72",
@@ -3453,7 +3653,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2630
+    "closingRank": 1832
   },
   {
     "collegeId": "72",
@@ -3485,6 +3685,14 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
+    "closingRank": 3040
+  },
+  {
+    "collegeId": "74",
+    "collegeName": "MEA ENGINEERING COLLEGE",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "EZ",
     "closingRank": 3725
   },
   {
@@ -3501,7 +3709,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2235
+    "closingRank": 1636
   },
   {
     "collegeId": "77",
@@ -3509,7 +3717,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "MU",
-    "closingRank": 2248
+    "closingRank": 2235
   },
   {
     "collegeId": "77",
@@ -3528,28 +3736,12 @@
     "closingRank": 3773
   },
   {
-    "collegeId": "78",
-    "collegeName": "MES INSTITUTE OF TECHNOLOGY AND MANAGEMENT KOLLAM",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "SM",
-    "closingRank": 3192
-  },
-  {
     "collegeId": "79",
     "collegeName": "MET'S SCHOOL OF ENGINEERING MALA",
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3214
-  },
-  {
-    "collegeId": "81",
-    "collegeName": "MGM TECHNOLOGICAL CAMPUS",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "SM",
-    "closingRank": 2741
+    "closingRank": 3386
   },
   {
     "collegeId": "82",
@@ -3557,7 +3749,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 240
+    "closingRank": 190
   },
   {
     "collegeId": "82",
@@ -3565,7 +3757,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EWS",
-    "closingRank": 601
+    "closingRank": 456
   },
   {
     "collegeId": "82",
@@ -3600,20 +3792,12 @@
     "closingRank": 3364
   },
   {
-    "collegeId": "86",
-    "collegeName": "MUSALIAR COLLEGE OF ENGINEERING CHIRAYINKEEZHU",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "SM",
-    "closingRank": 4323
-  },
-  {
     "collegeId": "87",
     "collegeName": "MUSLIM ASSOCIATION COLLEGE OF ENGINEERING",
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2943
+    "closingRank": 3352
   },
   {
     "collegeId": "87",
@@ -3621,7 +3805,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "MU",
-    "closingRank": 3352
+    "closingRank": 3426
   },
   {
     "collegeId": "88",
@@ -3645,15 +3829,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 179
-  },
-  {
-    "collegeId": "90",
-    "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "EZ",
-    "closingRank": 199
+    "closingRank": 200
   },
   {
     "collegeId": "90",
@@ -3661,7 +3837,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "BH",
-    "closingRank": 244
+    "closingRank": 223
   },
   {
     "collegeId": "90",
@@ -3676,8 +3852,8 @@
     "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "SC",
-    "closingRank": 755
+    "category": "EZ",
+    "closingRank": 254
   },
   {
     "collegeId": "90",
@@ -3685,7 +3861,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "LC",
-    "closingRank": 4331
+    "closingRank": 1124
+  },
+  {
+    "collegeId": "90",
+    "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SC",
+    "closingRank": 1722
   },
   {
     "collegeId": "93",
@@ -3693,7 +3877,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4042
+    "closingRank": 4539
   },
   {
     "collegeId": "94",
@@ -3741,7 +3925,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EWS",
-    "closingRank": 338
+    "closingRank": 187
   },
   {
     "collegeId": "95",
@@ -3757,15 +3941,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SC",
-    "closingRank": 1076
-  },
-  {
-    "collegeId": "95",
-    "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "PD",
-    "closingRank": 4481
+    "closingRank": 755
   },
   {
     "collegeId": "96",
@@ -3781,7 +3957,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3530
+    "closingRank": 4094
   },
   {
     "collegeId": "99",
@@ -3797,7 +3973,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2858
+    "closingRank": 2396
   },
   {
     "collegeId": "101",
@@ -3805,7 +3981,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 1997
+    "closingRank": 2088
   },
   {
     "collegeId": "102",
@@ -3813,14 +3989,6 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 470
-  },
-  {
-    "collegeId": "102",
-    "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "MU",
     "closingRank": 555
   },
   {
@@ -3836,6 +4004,14 @@
     "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
     "courseId": "22",
     "courseName": "computer science and engineering",
+    "category": "MU",
+    "closingRank": 670
+  },
+  {
+    "collegeId": "102",
+    "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
     "category": "SC",
     "closingRank": 2190
   },
@@ -3845,7 +4021,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2623
+    "closingRank": 3621
   },
   {
     "collegeId": "104",
@@ -3853,7 +4029,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2759
+    "closingRank": 4434
   },
   {
     "collegeId": "106",
@@ -3877,15 +4053,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4053
-  },
-  {
-    "collegeId": "109",
-    "collegeName": "ST. THOMAS INSTITUTE FOR SCIENCE & TECHNOLOGY TRIVANDRUM",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "MU",
-    "closingRank": 4311
+    "closingRank": 4203
   },
   {
     "collegeId": "110",
@@ -3893,7 +4061,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 4116
+    "closingRank": 2085
   },
   {
     "collegeId": "110",
@@ -3901,7 +4069,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 4204
+    "closingRank": 4116
   },
   {
     "collegeId": "111",
@@ -3933,7 +4101,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "VK",
-    "closingRank": 127
+    "closingRank": 250
   },
   {
     "collegeId": "112",
@@ -3941,7 +4109,23 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "ST",
-    "closingRank": 1951
+    "closingRank": 2562
+  },
+  {
+    "collegeId": "113",
+    "collegeName": "TOC H INSTITUTE OF SCIENCE & TECHNOLOGY",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SM",
+    "closingRank": 3107
+  },
+  {
+    "collegeId": "115",
+    "collegeName": "TRAVANCORE ENGINEERING COLLEGE",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SM",
+    "closingRank": 3192
   },
   {
     "collegeId": "117",
@@ -3981,7 +4165,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "EZ",
-    "closingRank": 1307
+    "closingRank": 1286
   },
   {
     "collegeId": "120",
@@ -3989,7 +4173,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "MU",
-    "closingRank": 1636
+    "closingRank": 2098
   },
   {
     "collegeId": "120",
@@ -3997,7 +4181,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "BH",
-    "closingRank": 2903
+    "closingRank": 3135
   },
   {
     "collegeId": "121",
@@ -4005,7 +4189,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2833
+    "closingRank": 3456
   },
   {
     "collegeId": "122",
@@ -4013,7 +4197,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2530
+    "closingRank": 4089
   },
   {
     "collegeId": "123",
@@ -4021,15 +4205,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 2206
+    "closingRank": 2356
   },
   {
     "collegeId": "123",
     "collegeName": "VIDYA ACADEMY OF SCIENCE & TECHNOLOGY, THRISSUR",
     "courseId": "22",
     "courseName": "computer science and engineering",
-    "category": "VK",
-    "closingRank": 2691
+    "category": "EWS",
+    "closingRank": 3387
   },
   {
     "collegeId": "123",
@@ -4038,14 +4222,6 @@
     "courseName": "computer science and engineering",
     "category": "EZ",
     "closingRank": 3614
-  },
-  {
-    "collegeId": "123",
-    "collegeName": "VIDYA ACADEMY OF SCIENCE & TECHNOLOGY, THRISSUR",
-    "courseId": "22",
-    "courseName": "computer science and engineering",
-    "category": "EWS",
-    "closingRank": 4094
   },
   {
     "collegeId": "124",
@@ -4061,7 +4237,15 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3700
+    "closingRank": 4204
+  },
+  {
+    "collegeId": "126",
+    "collegeName": "VISAT ENGINEERING COLLEGE",
+    "courseId": "22",
+    "courseName": "computer science and engineering",
+    "category": "SM",
+    "closingRank": 4430
   },
   {
     "collegeId": "127",
@@ -4069,7 +4253,7 @@
     "courseId": "22",
     "courseName": "computer science and engineering",
     "category": "SM",
-    "closingRank": 3107
+    "closingRank": 1603
   },
   {
     "collegeId": "128",
@@ -4092,16 +4276,16 @@
     "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
     "courseId": "28",
     "courseName": "computer science and engineering (artificial intelligence and data science)",
-    "category": "MU",
-    "closingRank": 2223
+    "category": "EZ",
+    "closingRank": 2222
   },
   {
     "collegeId": "62",
     "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
     "courseId": "28",
     "courseName": "computer science and engineering (artificial intelligence and data science)",
-    "category": "EZ",
-    "closingRank": 2381
+    "category": "MU",
+    "closingRank": 2397
   },
   {
     "collegeId": "6",
@@ -4117,15 +4301,7 @@
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "SM",
-    "closingRank": 2145
-  },
-  {
-    "collegeId": "16",
-    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
-    "courseId": "23",
-    "courseName": "computer science and engineering (artificial intelligence and machine learning)",
-    "category": "EWS",
-    "closingRank": 2637
+    "closingRank": 2534
   },
   {
     "collegeId": "16",
@@ -4141,15 +4317,7 @@
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "MU",
-    "closingRank": 2648
-  },
-  {
-    "collegeId": "16",
-    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
-    "courseId": "23",
-    "courseName": "computer science and engineering (artificial intelligence and machine learning)",
-    "category": "SC",
-    "closingRank": 4411
+    "closingRank": 4311
   },
   {
     "collegeId": "17",
@@ -4157,7 +4325,7 @@
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "SM",
-    "closingRank": 1065
+    "closingRank": 1168
   },
   {
     "collegeId": "22",
@@ -4165,23 +4333,7 @@
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "SM",
-    "closingRank": 1709
-  },
-  {
-    "collegeId": "22",
-    "collegeName": "COLLEGE OF ENGINEERING KOTTARAKKARA",
-    "courseId": "23",
-    "courseName": "computer science and engineering (artificial intelligence and machine learning)",
-    "category": "MU",
-    "closingRank": 4334
-  },
-  {
-    "collegeId": "50",
-    "collegeName": "JOHN COX MEMORIAL CSI INSTITUTE OF TECHNOLOGY",
-    "courseId": "23",
-    "courseName": "computer science and engineering (artificial intelligence and machine learning)",
-    "category": "SM",
-    "closingRank": 2971
+    "closingRank": 3466
   },
   {
     "collegeId": "72",
@@ -4189,15 +4341,15 @@
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "SM",
-    "closingRank": 4415
+    "closingRank": 2409
   },
   {
-    "collegeId": "85",
-    "collegeName": "MUSALIAR COLLEGE OF ENGINEERING & TECHNOLOGY PATHANAMTHITTA",
+    "collegeId": "74",
+    "collegeName": "MEA ENGINEERING COLLEGE",
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "SM",
-    "closingRank": 3004
+    "closingRank": 2622
   },
   {
     "collegeId": "88",
@@ -4224,14 +4376,6 @@
     "closingRank": 3175
   },
   {
-    "collegeId": "94",
-    "collegeName": "RAJADHANI INSTITUTE OF SCIENCE AND TECHNOLOGY PALAKKAD",
-    "courseId": "23",
-    "courseName": "computer science and engineering (artificial intelligence and machine learning)",
-    "category": "SM",
-    "closingRank": 4430
-  },
-  {
     "collegeId": "101",
     "collegeName": "SREE BUDDHA COLLEGE OF ENGINEERING PATTOOR",
     "courseId": "23",
@@ -4253,7 +4397,7 @@
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "VK",
-    "closingRank": 1195
+    "closingRank": 1869
   },
   {
     "collegeId": "109",
@@ -4261,7 +4405,7 @@
     "courseId": "23",
     "courseName": "computer science and engineering (artificial intelligence and machine learning)",
     "category": "SM",
-    "closingRank": 2160
+    "closingRank": 3568
   },
   {
     "collegeId": "126",
@@ -4272,12 +4416,12 @@
     "closingRank": 4459
   },
   {
-    "collegeId": "17",
-    "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
+    "collegeId": "16",
+    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
     "courseId": "24",
     "courseName": "computer science and engineering (artificial intelligence and machine learning) - full fee",
     "category": "SM",
-    "closingRank": 2082
+    "closingRank": 4165
   },
   {
     "collegeId": "102",
@@ -4285,7 +4429,7 @@
     "courseId": "24",
     "courseName": "computer science and engineering (artificial intelligence and machine learning) - full fee",
     "category": "SM",
-    "closingRank": 4492
+    "closingRank": 3776
   },
   {
     "collegeId": "2",
@@ -4296,12 +4440,20 @@
     "closingRank": 1670
   },
   {
+    "collegeId": "10",
+    "collegeName": "BISHOP JEROME INSTITUTE",
+    "courseId": "25",
+    "courseName": "computer science and engineering (artificial intelligence)",
+    "category": "SM",
+    "closingRank": 2906
+  },
+  {
     "collegeId": "29",
     "collegeName": "COLLEGE OF ENGINEERING TRIKARIPUR",
     "courseId": "25",
     "courseName": "computer science and engineering (artificial intelligence)",
     "category": "SM",
-    "closingRank": 1581
+    "closingRank": 1460
   },
   {
     "collegeId": "29",
@@ -4309,7 +4461,7 @@
     "courseId": "25",
     "courseName": "computer science and engineering (artificial intelligence)",
     "category": "EZ",
-    "closingRank": 2198
+    "closingRank": 1562
   },
   {
     "collegeId": "29",
@@ -4325,7 +4477,7 @@
     "courseId": "25",
     "courseName": "computer science and engineering (artificial intelligence)",
     "category": "SM",
-    "closingRank": 3772
+    "closingRank": 3383
   },
   {
     "collegeId": "99",
@@ -4357,7 +4509,7 @@
     "courseId": "25",
     "courseName": "computer science and engineering (artificial intelligence)",
     "category": "EZ",
-    "closingRank": 190
+    "closingRank": 226
   },
   {
     "collegeId": "112",
@@ -4381,7 +4533,7 @@
     "courseId": "29",
     "courseName": "computer science and engineering (cyber security)",
     "category": "SM",
-    "closingRank": 4274
+    "closingRank": 4283
   },
   {
     "collegeId": "42",
@@ -4405,7 +4557,7 @@
     "courseId": "29",
     "courseName": "computer science and engineering (cyber security)",
     "category": "SM",
-    "closingRank": 1145
+    "closingRank": 2691
   },
   {
     "collegeId": "56",
@@ -4421,7 +4573,7 @@
     "courseId": "29",
     "courseName": "computer science and engineering (cyber security)",
     "category": "SM",
-    "closingRank": 967
+    "closingRank": 3778
   },
   {
     "collegeId": "77",
@@ -4464,6 +4616,14 @@
     "closingRank": 4003
   },
   {
+    "collegeId": "104",
+    "collegeName": "SREE NARAYANA GURUKULAM COLLEGE OF ENGINEERING",
+    "courseId": "29",
+    "courseName": "computer science and engineering (cyber security)",
+    "category": "SM",
+    "closingRank": 1864
+  },
+  {
     "collegeId": "107",
     "collegeName": "ST JOSEPH'S COLLEGE OF ENGINEERING AND TECHNOLOGY PALAI",
     "courseId": "29",
@@ -4488,12 +4648,12 @@
     "closingRank": 1253
   },
   {
-    "collegeId": "19",
-    "collegeName": "COLLEGE OF ENGINEERING KALLOOPPARA",
-    "courseId": "30",
-    "courseName": "computer science and engineering (cyber security) - full fee",
+    "collegeId": "125",
+    "collegeName": "VIMAL JYOTHI ENGINEERING COLLEGE",
+    "courseId": "29",
+    "courseName": "computer science and engineering (cyber security)",
     "category": "SM",
-    "closingRank": 1521
+    "closingRank": 2163
   },
   {
     "collegeId": "2",
@@ -4501,15 +4661,7 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "SM",
-    "closingRank": 2328
-  },
-  {
-    "collegeId": "10",
-    "collegeName": "BISHOP JEROME INSTITUTE",
-    "courseId": "26",
-    "courseName": "computer science and engineering (data science)",
-    "category": "SM",
-    "closingRank": 2906
+    "closingRank": 4485
   },
   {
     "collegeId": "13",
@@ -4517,7 +4669,7 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "SM",
-    "closingRank": 3124
+    "closingRank": 2896
   },
   {
     "collegeId": "13",
@@ -4525,7 +4677,7 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "EZ",
-    "closingRank": 3310
+    "closingRank": 3124
   },
   {
     "collegeId": "14",
@@ -4533,6 +4685,14 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "SM",
+    "closingRank": 3995
+  },
+  {
+    "collegeId": "14",
+    "collegeName": "COLLEGE OF ENGINEERING AND TECHNOLOGY PAYYANUR",
+    "courseId": "26",
+    "courseName": "computer science and engineering (data science)",
+    "category": "EZ",
     "closingRank": 4210
   },
   {
@@ -4541,7 +4701,7 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "SM",
-    "closingRank": 2222
+    "closingRank": 1581
   },
   {
     "collegeId": "70",
@@ -4549,7 +4709,7 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "SM",
-    "closingRank": 371
+    "closingRank": 367
   },
   {
     "collegeId": "70",
@@ -4557,7 +4717,7 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "MU",
-    "closingRank": 462
+    "closingRank": 371
   },
   {
     "collegeId": "70",
@@ -4581,7 +4741,7 @@
     "courseId": "26",
     "courseName": "computer science and engineering (data science)",
     "category": "SC",
-    "closingRank": 1993
+    "closingRank": 1707
   },
   {
     "collegeId": "72",
@@ -4590,6 +4750,30 @@
     "courseName": "computer science and engineering (data science)",
     "category": "SM",
     "closingRank": 2980
+  },
+  {
+    "collegeId": "99",
+    "collegeName": "SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY",
+    "courseId": "26",
+    "courseName": "computer science and engineering (data science)",
+    "category": "SM",
+    "closingRank": 1543
+  },
+  {
+    "collegeId": "109",
+    "collegeName": "ST. THOMAS INSTITUTE FOR SCIENCE & TECHNOLOGY TRIVANDRUM",
+    "courseId": "26",
+    "courseName": "computer science and engineering (data science)",
+    "category": "SM",
+    "closingRank": 3772
+  },
+  {
+    "collegeId": "126",
+    "collegeName": "VISAT ENGINEERING COLLEGE",
+    "courseId": "26",
+    "courseName": "computer science and engineering (data science)",
+    "category": "SM",
+    "closingRank": 1102
   },
   {
     "collegeId": "92",
@@ -4613,7 +4797,7 @@
     "courseId": "33",
     "courseName": "computer science and engineering - full fee",
     "category": "SM",
-    "closingRank": 4193
+    "closingRank": 3762
   },
   {
     "collegeId": "20",
@@ -4645,7 +4829,15 @@
     "courseId": "33",
     "courseName": "computer science and engineering - full fee",
     "category": "SM",
-    "closingRank": 4165
+    "closingRank": 3481
+  },
+  {
+    "collegeId": "29",
+    "collegeName": "COLLEGE OF ENGINEERING TRIKARIPUR",
+    "courseId": "33",
+    "courseName": "computer science and engineering - full fee",
+    "category": "SM",
+    "closingRank": 4110
   },
   {
     "collegeId": "31",
@@ -4669,7 +4861,7 @@
     "courseId": "33",
     "courseName": "computer science and engineering - full fee",
     "category": "SM",
-    "closingRank": 1579
+    "closingRank": 1006
   },
   {
     "collegeId": "102",
@@ -4680,12 +4872,20 @@
     "closingRank": 3858
   },
   {
+    "collegeId": "120",
+    "collegeName": "UNIVERSITY COLLEGE OF ENGINEERING,KARIAVATTOM",
+    "courseId": "33",
+    "courseName": "computer science and engineering - full fee",
+    "category": "SM",
+    "closingRank": 4492
+  },
+  {
     "collegeId": "39",
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "courseId": "35",
     "courseName": "cyber physical systems",
     "category": "SM",
-    "closingRank": 232
+    "closingRank": 277
   },
   {
     "collegeId": "39",
@@ -4693,7 +4893,7 @@
     "courseId": "35",
     "courseName": "cyber physical systems",
     "category": "EZ",
-    "closingRank": 410
+    "closingRank": 418
   },
   {
     "collegeId": "39",
@@ -4701,7 +4901,7 @@
     "courseId": "35",
     "courseName": "cyber physical systems",
     "category": "EWS",
-    "closingRank": 540
+    "closingRank": 617
   },
   {
     "collegeId": "39",
@@ -4709,7 +4909,15 @@
     "courseId": "35",
     "courseName": "cyber physical systems",
     "category": "SC",
-    "closingRank": 666
+    "closingRank": 1097
+  },
+  {
+    "collegeId": "58",
+    "collegeName": "KMCT INSTITUTE OF TECHNOLOGY AND MANGEMENT",
+    "courseId": "36",
+    "courseName": "cyber security",
+    "category": "SM",
+    "closingRank": 4491
   },
   {
     "collegeId": "11",
@@ -4717,7 +4925,7 @@
     "courseId": "37",
     "courseName": "electrical and computer engineering",
     "category": "SM",
-    "closingRank": 3535
+    "closingRank": 4200
   },
   {
     "collegeId": "21",
@@ -4733,7 +4941,7 @@
     "courseId": "37",
     "courseName": "electrical and computer engineering",
     "category": "SM",
-    "closingRank": 148
+    "closingRank": 88
   },
   {
     "collegeId": "30",
@@ -4741,7 +4949,7 @@
     "courseId": "37",
     "courseName": "electrical and computer engineering",
     "category": "EZ",
-    "closingRank": 185
+    "closingRank": 138
   },
   {
     "collegeId": "30",
@@ -4776,12 +4984,20 @@
     "closingRank": 1904
   },
   {
+    "collegeId": "88",
+    "collegeName": "NEHRU COLLEGE OF ENGINEERING AND RESEARCH CENTRE",
+    "courseId": "37",
+    "courseName": "electrical and computer engineering",
+    "category": "MU",
+    "closingRank": 2346
+  },
+  {
     "collegeId": "112",
     "collegeName": "TKM COLLEGE OF ENGINEERING",
     "courseId": "37",
     "courseName": "electrical and computer engineering",
     "category": "SM",
-    "closingRank": 340
+    "closingRank": 229
   },
   {
     "collegeId": "112",
@@ -4789,7 +5005,7 @@
     "courseId": "37",
     "courseName": "electrical and computer engineering",
     "category": "MU",
-    "closingRank": 361
+    "closingRank": 256
   },
   {
     "collegeId": "112",
@@ -4805,7 +5021,7 @@
     "courseId": "37",
     "courseName": "electrical and computer engineering",
     "category": "SM",
-    "closingRank": 1675
+    "closingRank": 2247
   },
   {
     "collegeId": "1",
@@ -4813,6 +5029,14 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
+    "closingRank": 2532
+  },
+  {
+    "collegeId": "1",
+    "collegeName": "ACE COLLEGE OF ENGINEERING",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "BH",
     "closingRank": 4288
   },
   {
@@ -4821,14 +5045,6 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 1166
-  },
-  {
-    "collegeId": "2",
-    "collegeName": "ADI SHANKARA INSTITUTE OF ENGINEERING & TECHNOLOGY",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "EZ",
     "closingRank": 1310
   },
   {
@@ -4845,7 +5061,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4187
+    "closingRank": 4496
   },
   {
     "collegeId": "6",
@@ -4861,7 +5077,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4518
+    "closingRank": 4062
   },
   {
     "collegeId": "9",
@@ -4869,7 +5085,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3449
+    "closingRank": 3873
   },
   {
     "collegeId": "10",
@@ -4877,7 +5093,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3244
+    "closingRank": 3542
   },
   {
     "collegeId": "11",
@@ -4885,7 +5101,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4360
+    "closingRank": 4482
   },
   {
     "collegeId": "12",
@@ -4893,7 +5109,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4448
+    "closingRank": 3937
   },
   {
     "collegeId": "13",
@@ -4901,7 +5117,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 2383
+    "closingRank": 2271
+  },
+  {
+    "collegeId": "13",
+    "collegeName": "COLLEGE OF ENGINEERING ADOOR",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "MU",
+    "closingRank": 3810
   },
   {
     "collegeId": "13",
@@ -4909,15 +5133,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "VK",
-    "closingRank": 2500
-  },
-  {
-    "collegeId": "13",
-    "collegeName": "COLLEGE OF ENGINEERING ADOOR",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "SC",
-    "closingRank": 3325
+    "closingRank": 2865
   },
   {
     "collegeId": "13",
@@ -4932,16 +5148,16 @@
     "collegeName": "COLLEGE OF ENGINEERING ADOOR",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 4510
+    "category": "EZ",
+    "closingRank": 3834
   },
   {
     "collegeId": "13",
     "collegeName": "COLLEGE OF ENGINEERING ADOOR",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "EZ",
-    "closingRank": 3834
+    "category": "SC",
+    "closingRank": 3891
   },
   {
     "collegeId": "13",
@@ -4957,31 +5173,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3930
-  },
-  {
-    "collegeId": "16",
-    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "EZ",
-    "closingRank": 3979
-  },
-  {
-    "collegeId": "16",
-    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 4048
-  },
-  {
-    "collegeId": "16",
-    "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "SC",
-    "closingRank": 4333
+    "closingRank": 4300
   },
   {
     "collegeId": "17",
@@ -4989,15 +5181,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 1300
+    "closingRank": 1278
   },
   {
     "collegeId": "17",
     "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "EZ",
-    "closingRank": 1360
+    "category": "MU",
+    "closingRank": 1300
   },
   {
     "collegeId": "17",
@@ -5012,16 +5204,16 @@
     "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "SC",
-    "closingRank": 4235
+    "category": "EZ",
+    "closingRank": 1540
   },
   {
     "collegeId": "17",
     "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 4325
+    "category": "SC",
+    "closingRank": 4235
   },
   {
     "collegeId": "18",
@@ -5029,7 +5221,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 758
+    "closingRank": 1045
   },
   {
     "collegeId": "19",
@@ -5037,7 +5229,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4062
+    "closingRank": 3041
   },
   {
     "collegeId": "21",
@@ -5045,7 +5237,23 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3666
+    "closingRank": 1940
+  },
+  {
+    "collegeId": "21",
+    "collegeName": "COLLEGE OF ENGINEERING KIDANGOOR",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "EWS",
+    "closingRank": 2388
+  },
+  {
+    "collegeId": "21",
+    "collegeName": "COLLEGE OF ENGINEERING KIDANGOOR",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "MU",
+    "closingRank": 2739
   },
   {
     "collegeId": "21",
@@ -5054,14 +5262,6 @@
     "courseName": "electrical and electronics engineering",
     "category": "SC",
     "closingRank": 4169
-  },
-  {
-    "collegeId": "21",
-    "collegeName": "COLLEGE OF ENGINEERING KIDANGOOR",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 4233
   },
   {
     "collegeId": "23",
@@ -5100,16 +5300,16 @@
     "collegeName": "COLLEGE OF ENGINEERING THALASSERY",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "EZ",
-    "closingRank": 1533
+    "category": "MU",
+    "closingRank": 1561
   },
   {
     "collegeId": "28",
     "collegeName": "COLLEGE OF ENGINEERING THALASSERY",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 1654
+    "category": "EZ",
+    "closingRank": 1689
   },
   {
     "collegeId": "28",
@@ -5117,7 +5317,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EWS",
-    "closingRank": 2142
+    "closingRank": 4085
+  },
+  {
+    "collegeId": "28",
+    "collegeName": "COLLEGE OF ENGINEERING THALASSERY",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "SC",
+    "closingRank": 4418
   },
   {
     "collegeId": "29",
@@ -5125,7 +5333,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4239
+    "closingRank": 4408
   },
   {
     "collegeId": "30",
@@ -5181,7 +5389,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 2263
+    "closingRank": 1986
+  },
+  {
+    "collegeId": "31",
+    "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "MU",
+    "closingRank": 2890
   },
   {
     "collegeId": "31",
@@ -5196,14 +5412,6 @@
     "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 3515
-  },
-  {
-    "collegeId": "31",
-    "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
     "category": "EWS",
     "closingRank": 4419
   },
@@ -5212,16 +5420,16 @@
     "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "SC",
-    "closingRank": 3141
+    "category": "VK",
+    "closingRank": 3002
   },
   {
     "collegeId": "31",
     "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "VK",
-    "closingRank": 4408
+    "category": "SC",
+    "closingRank": 3141
   },
   {
     "collegeId": "34",
@@ -5253,7 +5461,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EWS",
-    "closingRank": 606
+    "closingRank": 398
   },
   {
     "collegeId": "34",
@@ -5261,7 +5469,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SC",
-    "closingRank": 1343
+    "closingRank": 1180
   },
   {
     "collegeId": "35",
@@ -5269,15 +5477,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 284
-  },
-  {
-    "collegeId": "35",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "EZ",
-    "closingRank": 298
+    "closingRank": 276
   },
   {
     "collegeId": "35",
@@ -5285,7 +5485,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EWS",
-    "closingRank": 329
+    "closingRank": 284
   },
   {
     "collegeId": "35",
@@ -5293,7 +5493,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "MU",
-    "closingRank": 498
+    "closingRank": 361
+  },
+  {
+    "collegeId": "35",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "EZ",
+    "closingRank": 441
   },
   {
     "collegeId": "35",
@@ -5317,7 +5525,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 761
+    "closingRank": 693
+  },
+  {
+    "collegeId": "36",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "EZ",
+    "closingRank": 777
   },
   {
     "collegeId": "36",
@@ -5325,7 +5541,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "MU",
-    "closingRank": 801
+    "closingRank": 761
   },
   {
     "collegeId": "36",
@@ -5333,15 +5549,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EWS",
-    "closingRank": 1184
-  },
-  {
-    "collegeId": "36",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "EZ",
-    "closingRank": 884
+    "closingRank": 1240
   },
   {
     "collegeId": "36",
@@ -5349,7 +5557,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "VK",
-    "closingRank": 940
+    "closingRank": 837
   },
   {
     "collegeId": "36",
@@ -5357,7 +5565,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SC",
-    "closingRank": 2278
+    "closingRank": 2742
   },
   {
     "collegeId": "38",
@@ -5365,7 +5573,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 433
+    "closingRank": 417
   },
   {
     "collegeId": "38",
@@ -5373,7 +5581,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EZ",
-    "closingRank": 466
+    "closingRank": 433
+  },
+  {
+    "collegeId": "38",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE PALAKKAD",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "EWS",
+    "closingRank": 540
   },
   {
     "collegeId": "38",
@@ -5384,20 +5600,12 @@
     "closingRank": 631
   },
   {
-    "collegeId": "38",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE PALAKKAD",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "EWS",
-    "closingRank": 689
-  },
-  {
     "collegeId": "39",
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 95
+    "closingRank": 79
   },
   {
     "collegeId": "39",
@@ -5405,7 +5613,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EZ",
-    "closingRank": 116
+    "closingRank": 95
   },
   {
     "collegeId": "39",
@@ -5421,7 +5629,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "MU",
-    "closingRank": 246
+    "closingRank": 182
   },
   {
     "collegeId": "39",
@@ -5445,7 +5653,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "LC",
-    "closingRank": 3366
+    "closingRank": 2484
   },
   {
     "collegeId": "40",
@@ -5453,7 +5661,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 566
+    "closingRank": 558
   },
   {
     "collegeId": "40",
@@ -5485,7 +5693,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3883
+    "closingRank": 2933
   },
   {
     "collegeId": "44",
@@ -5496,20 +5704,12 @@
     "closingRank": 2628
   },
   {
-    "collegeId": "44",
-    "collegeName": "IES COLLEGE OF ENGINEERING",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 3580
-  },
-  {
     "collegeId": "45",
     "collegeName": "ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4016
+    "closingRank": 4325
   },
   {
     "collegeId": "46",
@@ -5517,7 +5717,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4157
+    "closingRank": 3523
   },
   {
     "collegeId": "47",
@@ -5525,7 +5725,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3508
+    "closingRank": 3563
   },
   {
     "collegeId": "47",
@@ -5533,7 +5733,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "MU",
-    "closingRank": 3779
+    "closingRank": 4140
   },
   {
     "collegeId": "47",
@@ -5541,23 +5741,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SC",
-    "closingRank": 4418
-  },
-  {
-    "collegeId": "47",
-    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "EZ",
-    "closingRank": 3912
-  },
-  {
-    "collegeId": "47",
-    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "VK",
-    "closingRank": 4379
+    "closingRank": 3698
   },
   {
     "collegeId": "47",
@@ -5568,12 +5752,12 @@
     "closingRank": 4467
   },
   {
-    "collegeId": "50",
-    "collegeName": "JOHN COX MEMORIAL CSI INSTITUTE OF TECHNOLOGY",
+    "collegeId": "47",
+    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "SM",
-    "closingRank": 429
+    "category": "VK",
+    "closingRank": 4379
   },
   {
     "collegeId": "51",
@@ -5597,7 +5781,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 1782
+    "closingRank": 1600
   },
   {
     "collegeId": "52",
@@ -5605,7 +5789,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EZ",
-    "closingRank": 2992
+    "closingRank": 1782
   },
   {
     "collegeId": "59",
@@ -5613,7 +5797,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3549
+    "closingRank": 3359
   },
   {
     "collegeId": "62",
@@ -5621,14 +5805,6 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3027
-  },
-  {
-    "collegeId": "62",
-    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "SC",
     "closingRank": 3072
   },
   {
@@ -5637,15 +5813,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EZ",
-    "closingRank": 3468
-  },
-  {
-    "collegeId": "62",
-    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 3563
+    "closingRank": 3073
   },
   {
     "collegeId": "62",
@@ -5654,6 +5822,22 @@
     "courseName": "electrical and electronics engineering",
     "category": "EWS",
     "closingRank": 3797
+  },
+  {
+    "collegeId": "62",
+    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "MU",
+    "closingRank": 4104
+  },
+  {
+    "collegeId": "62",
+    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "SC",
+    "closingRank": 4333
   },
   {
     "collegeId": "64",
@@ -5669,6 +5853,22 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
+    "closingRank": 3840
+  },
+  {
+    "collegeId": "65",
+    "collegeName": "M DASAN INSTITUTE OF TECHNOLOGY",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "MU",
+    "closingRank": 4122
+  },
+  {
+    "collegeId": "65",
+    "collegeName": "M DASAN INSTITUTE OF TECHNOLOGY",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "EZ",
     "closingRank": 4248
   },
   {
@@ -5685,7 +5885,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4451
+    "closingRank": 4448
   },
   {
     "collegeId": "70",
@@ -5693,7 +5893,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 277
+    "closingRank": 335
   },
   {
     "collegeId": "70",
@@ -5709,7 +5909,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SC",
-    "closingRank": 2037
+    "closingRank": 2044
   },
   {
     "collegeId": "70",
@@ -5725,7 +5925,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 2860
+    "closingRank": 3308
+  },
+  {
+    "collegeId": "71",
+    "collegeName": "MAR BASELIOS CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "SC",
+    "closingRank": 3453
   },
   {
     "collegeId": "72",
@@ -5733,7 +5941,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 1174
+    "closingRank": 1729
+  },
+  {
+    "collegeId": "73",
+    "collegeName": "MARIAN ENGINEERING COLLEGE",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "SM",
+    "closingRank": 3461
   },
   {
     "collegeId": "74",
@@ -5749,7 +5965,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 2446
+    "closingRank": 1173
   },
   {
     "collegeId": "77",
@@ -5757,7 +5973,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "MU",
-    "closingRank": 2471
+    "closingRank": 2435
   },
   {
     "collegeId": "78",
@@ -5765,7 +5981,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3153
+    "closingRank": 3244
   },
   {
     "collegeId": "82",
@@ -5781,15 +5997,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "DV",
-    "closingRank": 3430
-  },
-  {
-    "collegeId": "85",
-    "collegeName": "MUSALIAR COLLEGE OF ENGINEERING & TECHNOLOGY PATHANAMTHITTA",
-    "courseId": "39",
-    "courseName": "electrical and electronics engineering",
-    "category": "SM",
-    "closingRank": 4102
+    "closingRank": 2175
   },
   {
     "collegeId": "87",
@@ -5805,7 +6013,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 310
+    "closingRank": 301
   },
   {
     "collegeId": "90",
@@ -5820,16 +6028,16 @@
     "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 368
+    "category": "EWS",
+    "closingRank": 329
   },
   {
     "collegeId": "90",
     "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "EWS",
-    "closingRank": 398
+    "category": "MU",
+    "closingRank": 340
   },
   {
     "collegeId": "90",
@@ -5837,7 +6045,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SC",
-    "closingRank": 2044
+    "closingRank": 1808
   },
   {
     "collegeId": "92",
@@ -5853,7 +6061,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 1871
+    "closingRank": 1947
   },
   {
     "collegeId": "95",
@@ -5861,7 +6069,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 194
+    "closingRank": 120
   },
   {
     "collegeId": "95",
@@ -5872,20 +6080,20 @@
     "closingRank": 982
   },
   {
-    "collegeId": "97",
-    "collegeName": "SAHRDAYA COLLEGE OF ENGINEERING & TECHNOLOGY",
+    "collegeId": "95",
+    "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "SM",
-    "closingRank": 2927
+    "category": "DV",
+    "closingRank": 3430
   },
   {
     "collegeId": "97",
     "collegeName": "SAHRDAYA COLLEGE OF ENGINEERING & TECHNOLOGY",
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
-    "category": "MU",
-    "closingRank": 3921
+    "category": "SM",
+    "closingRank": 2727
   },
   {
     "collegeId": "99",
@@ -5933,7 +6141,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3851
+    "closingRank": 4118
   },
   {
     "collegeId": "103",
@@ -5949,7 +6157,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3847
+    "closingRank": 4029
   },
   {
     "collegeId": "105",
@@ -5965,7 +6173,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 3155
+    "closingRank": 2972
   },
   {
     "collegeId": "107",
@@ -5981,7 +6189,15 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 4570
+    "closingRank": 3053
+  },
+  {
+    "collegeId": "109",
+    "collegeName": "ST. THOMAS INSTITUTE FOR SCIENCE & TECHNOLOGY TRIVANDRUM",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "EZ",
+    "closingRank": 4041
   },
   {
     "collegeId": "111",
@@ -5997,7 +6213,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 182
+    "closingRank": 185
   },
   {
     "collegeId": "112",
@@ -6029,7 +6245,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SC",
-    "closingRank": 1180
+    "closingRank": 2037
   },
   {
     "collegeId": "113",
@@ -6045,7 +6261,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "MU",
-    "closingRank": 4090
+    "closingRank": 4233
   },
   {
     "collegeId": "114",
@@ -6077,7 +6293,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "EZ",
-    "closingRank": 3450
+    "closingRank": 3391
   },
   {
     "collegeId": "118",
@@ -6085,7 +6301,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 2551
+    "closingRank": 2940
   },
   {
     "collegeId": "119",
@@ -6093,7 +6309,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 1837
+    "closingRank": 3764
   },
   {
     "collegeId": "121",
@@ -6109,7 +6325,7 @@
     "courseId": "39",
     "courseName": "electrical and electronics engineering",
     "category": "SM",
-    "closingRank": 1002
+    "closingRank": 988
   },
   {
     "collegeId": "123",
@@ -6118,6 +6334,14 @@
     "courseName": "electrical and electronics engineering",
     "category": "SC",
     "closingRank": 3471
+  },
+  {
+    "collegeId": "123",
+    "collegeName": "VIDYA ACADEMY OF SCIENCE & TECHNOLOGY, THRISSUR",
+    "courseId": "39",
+    "courseName": "electrical and electronics engineering",
+    "category": "MU",
+    "closingRank": 3580
   },
   {
     "collegeId": "125",
@@ -6149,7 +6373,7 @@
     "courseId": "40",
     "courseName": "electrical and electronics engineering - full fee",
     "category": "SM",
-    "closingRank": 4306
+    "closingRank": 2290
   },
   {
     "collegeId": "28",
@@ -6157,7 +6381,15 @@
     "courseId": "40",
     "courseName": "electrical and electronics engineering - full fee",
     "category": "SM",
-    "closingRank": 2331
+    "closingRank": 1721
+  },
+  {
+    "collegeId": "62",
+    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
+    "courseId": "40",
+    "courseName": "electrical and electronics engineering - full fee",
+    "category": "SM",
+    "closingRank": 3468
   },
   {
     "collegeId": "82",
@@ -6174,6 +6406,14 @@
     "courseName": "electronics and biomedical engineering",
     "category": "SM",
     "closingRank": 2413
+  },
+  {
+    "collegeId": "2",
+    "collegeName": "ADI SHANKARA INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "courseId": "41",
+    "courseName": "electronics and biomedical engineering",
+    "category": "SC",
+    "closingRank": 3947
   },
   {
     "collegeId": "82",
@@ -6213,7 +6453,7 @@
     "courseId": "42",
     "courseName": "electronics and biomedical engineering - full fee",
     "category": "SM",
-    "closingRank": 4246
+    "closingRank": 3777
   },
   {
     "collegeId": "1",
@@ -6221,7 +6461,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 4160
+    "closingRank": 3675
   },
   {
     "collegeId": "2",
@@ -6229,7 +6469,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2717
+    "closingRank": 1725
   },
   {
     "collegeId": "2",
@@ -6245,7 +6485,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2904
+    "closingRank": 4316
   },
   {
     "collegeId": "4",
@@ -6261,7 +6501,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2850
+    "closingRank": 3255
   },
   {
     "collegeId": "7",
@@ -6269,7 +6509,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2930
+    "closingRank": 2304
   },
   {
     "collegeId": "8",
@@ -6277,7 +6517,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2612
+    "closingRank": 3515
   },
   {
     "collegeId": "8",
@@ -6285,7 +6525,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "MU",
-    "closingRank": 3172
+    "closingRank": 4289
   },
   {
     "collegeId": "10",
@@ -6293,7 +6533,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2412
+    "closingRank": 2410
   },
   {
     "collegeId": "11",
@@ -6301,7 +6541,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 4513
+    "closingRank": 4518
   },
   {
     "collegeId": "13",
@@ -6309,7 +6549,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2745
+    "closingRank": 2506
   },
   {
     "collegeId": "13",
@@ -6317,7 +6557,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "VK",
-    "closingRank": 4100
+    "closingRank": 3861
   },
   {
     "collegeId": "14",
@@ -6325,22 +6565,6 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 3002
-  },
-  {
-    "collegeId": "14",
-    "collegeName": "COLLEGE OF ENGINEERING AND TECHNOLOGY PAYYANUR",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "BH",
-    "closingRank": 3681
-  },
-  {
-    "collegeId": "14",
-    "collegeName": "COLLEGE OF ENGINEERING AND TECHNOLOGY PAYYANUR",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "MU",
     "closingRank": 3818
   },
   {
@@ -6352,12 +6576,20 @@
     "closingRank": 4007
   },
   {
+    "collegeId": "14",
+    "collegeName": "COLLEGE OF ENGINEERING AND TECHNOLOGY PAYYANUR",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "BH",
+    "closingRank": 4422
+  },
+  {
     "collegeId": "16",
     "collegeName": "COLLEGE OF ENGINEERING ATTINGAL",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1536
+    "closingRank": 2174
   },
   {
     "collegeId": "16",
@@ -6365,7 +6597,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "EZ",
-    "closingRank": 2052
+    "closingRank": 2315
   },
   {
     "collegeId": "17",
@@ -6380,16 +6612,16 @@
     "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "EZ",
-    "closingRank": 1526
+    "category": "BH",
+    "closingRank": 1405
   },
   {
     "collegeId": "17",
     "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "BH",
-    "closingRank": 1651
+    "category": "EZ",
+    "closingRank": 1526
   },
   {
     "collegeId": "17",
@@ -6405,15 +6637,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SC",
-    "closingRank": 3493
-  },
-  {
-    "collegeId": "17",
-    "collegeName": "COLLEGE OF ENGINEERING CHENGANNUR",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "LC",
-    "closingRank": 3942
+    "closingRank": 3229
   },
   {
     "collegeId": "18",
@@ -6421,7 +6645,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1012
+    "closingRank": 1481
   },
   {
     "collegeId": "18",
@@ -6469,7 +6693,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 4468
+    "closingRank": 4451
   },
   {
     "collegeId": "23",
@@ -6493,7 +6717,15 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2869
+    "closingRank": 2957
+  },
+  {
+    "collegeId": "26",
+    "collegeName": "COLLEGE OF ENGINEERING PERUMON",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "EZ",
+    "closingRank": 3377
   },
   {
     "collegeId": "26",
@@ -6509,7 +6741,15 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SC",
-    "closingRank": 3891
+    "closingRank": 3865
+  },
+  {
+    "collegeId": "27",
+    "collegeName": "COLLEGE OF ENGINEERING POONJAR",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "SM",
+    "closingRank": 3890
   },
   {
     "collegeId": "28",
@@ -6517,15 +6757,15 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1690
+    "closingRank": 2021
   },
   {
     "collegeId": "28",
     "collegeName": "COLLEGE OF ENGINEERING THALASSERY",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "VK",
-    "closingRank": 2021
+    "category": "EZ",
+    "closingRank": 2024
   },
   {
     "collegeId": "28",
@@ -6540,8 +6780,8 @@
     "collegeName": "COLLEGE OF ENGINEERING THALASSERY",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "EZ",
-    "closingRank": 2100
+    "category": "VK",
+    "closingRank": 2121
   },
   {
     "collegeId": "28",
@@ -6557,7 +6797,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 4477
+    "closingRank": 4468
   },
   {
     "collegeId": "30",
@@ -6565,7 +6805,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 21
+    "closingRank": 22
   },
   {
     "collegeId": "30",
@@ -6613,7 +6853,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 978
+    "closingRank": 843
   },
   {
     "collegeId": "31",
@@ -6621,7 +6861,15 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "EZ",
-    "closingRank": 1109
+    "closingRank": 978
+  },
+  {
+    "collegeId": "31",
+    "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "SC",
+    "closingRank": 3637
   },
   {
     "collegeId": "32",
@@ -6637,7 +6885,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 268
+    "closingRank": 286
   },
   {
     "collegeId": "34",
@@ -6645,7 +6893,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "EWS",
-    "closingRank": 596
+    "closingRank": 589
   },
   {
     "collegeId": "34",
@@ -6653,7 +6901,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SD",
-    "closingRank": 3488
+    "closingRank": 2405
   },
   {
     "collegeId": "34",
@@ -6677,15 +6925,15 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 249
+    "closingRank": 221
   },
   {
     "collegeId": "35",
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "MU",
-    "closingRank": 264
+    "category": "SC",
+    "closingRank": 249
   },
   {
     "collegeId": "35",
@@ -6700,8 +6948,8 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "SC",
-    "closingRank": 695
+    "category": "MU",
+    "closingRank": 438
   },
   {
     "collegeId": "36",
@@ -6725,7 +6973,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "EWS",
-    "closingRank": 1240
+    "closingRank": 1502
   },
   {
     "collegeId": "36",
@@ -6733,7 +6981,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "MU",
-    "closingRank": 906
+    "closingRank": 1000
   },
   {
     "collegeId": "36",
@@ -6749,7 +6997,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 406
+    "closingRank": 292
   },
   {
     "collegeId": "37",
@@ -6757,7 +7005,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "MU",
-    "closingRank": 438
+    "closingRank": 406
   },
   {
     "collegeId": "37",
@@ -6805,7 +7053,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "EWS",
-    "closingRank": 589
+    "closingRank": 596
   },
   {
     "collegeId": "38",
@@ -6813,7 +7061,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SC",
-    "closingRank": 1097
+    "closingRank": 1148
   },
   {
     "collegeId": "39",
@@ -6861,15 +7109,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 624
-  },
-  {
-    "collegeId": "40",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "EZ",
-    "closingRank": 700
+    "closingRank": 630
   },
   {
     "collegeId": "40",
@@ -6878,6 +7118,22 @@
     "courseName": "electronics and communication engineering",
     "category": "MU",
     "closingRank": 646
+  },
+  {
+    "collegeId": "40",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "EZ",
+    "closingRank": 817
+  },
+  {
+    "collegeId": "40",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "VK",
+    "closingRank": 701
   },
   {
     "collegeId": "40",
@@ -6900,8 +7156,8 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "VK",
-    "closingRank": 837
+    "category": "LC",
+    "closingRank": 1421
   },
   {
     "collegeId": "40",
@@ -6909,7 +7165,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SC",
-    "closingRank": 2033
+    "closingRank": 2074
   },
   {
     "collegeId": "40",
@@ -6920,12 +7176,12 @@
     "closingRank": 2299
   },
   {
-    "collegeId": "40",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
+    "collegeId": "42",
+    "collegeName": "HOLY GRACE ACADEMY OF ENGINEERING",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "LC",
-    "closingRank": 2721
+    "category": "SM",
+    "closingRank": 1886
   },
   {
     "collegeId": "45",
@@ -6936,12 +7192,20 @@
     "closingRank": 3964
   },
   {
+    "collegeId": "46",
+    "collegeName": "INDIRA GANDHI INSTITUTE OF ENGINEERING & TECHNOLOGY",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "SM",
+    "closingRank": 3419
+  },
+  {
     "collegeId": "47",
     "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1158
+    "closingRank": 1131
   },
   {
     "collegeId": "47",
@@ -6949,7 +7213,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "MU",
-    "closingRank": 1484
+    "closingRank": 1158
   },
   {
     "collegeId": "47",
@@ -6957,7 +7221,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "VK",
-    "closingRank": 2652
+    "closingRank": 1794
   },
   {
     "collegeId": "49",
@@ -6965,7 +7229,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 3513
+    "closingRank": 2708
   },
   {
     "collegeId": "51",
@@ -6973,7 +7237,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2854
+    "closingRank": 2602
   },
   {
     "collegeId": "52",
@@ -6981,7 +7245,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 4140
+    "closingRank": 3171
   },
   {
     "collegeId": "54",
@@ -7013,7 +7277,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 3696
+    "closingRank": 3232
   },
   {
     "collegeId": "58",
@@ -7029,7 +7293,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 999
+    "closingRank": 1444
   },
   {
     "collegeId": "62",
@@ -7037,7 +7301,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2315
+    "closingRank": 1447
   },
   {
     "collegeId": "62",
@@ -7045,7 +7309,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "MU",
-    "closingRank": 4104
+    "closingRank": 4342
   },
   {
     "collegeId": "63",
@@ -7053,7 +7317,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2504
+    "closingRank": 1824
   },
   {
     "collegeId": "63",
@@ -7069,7 +7333,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 4008
+    "closingRank": 4514
   },
   {
     "collegeId": "68",
@@ -7080,20 +7344,12 @@
     "closingRank": 3728
   },
   {
-    "collegeId": "69",
-    "collegeName": "MANGALAM COLLEGE OF ENGINEERING",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "SM",
-    "closingRank": 4021
-  },
-  {
     "collegeId": "70",
     "collegeName": "MAR ATHANASIUS COLLEGE OF ENGINEERING",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 252
+    "closingRank": 264
   },
   {
     "collegeId": "70",
@@ -7101,7 +7357,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "EZ",
-    "closingRank": 392
+    "closingRank": 410
   },
   {
     "collegeId": "70",
@@ -7117,7 +7373,15 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SC",
-    "closingRank": 2074
+    "closingRank": 1245
+  },
+  {
+    "collegeId": "70",
+    "collegeName": "MAR ATHANASIUS COLLEGE OF ENGINEERING",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "ST",
+    "closingRank": 4022
   },
   {
     "collegeId": "71",
@@ -7125,7 +7389,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1188
+    "closingRank": 4108
   },
   {
     "collegeId": "72",
@@ -7133,7 +7397,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1777
+    "closingRank": 4105
   },
   {
     "collegeId": "76",
@@ -7157,7 +7421,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "EZ",
-    "closingRank": 1131
+    "closingRank": 1109
   },
   {
     "collegeId": "77",
@@ -7197,7 +7461,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "LC",
-    "closingRank": 3255
+    "closingRank": 2721
   },
   {
     "collegeId": "83",
@@ -7213,7 +7477,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2951
+    "closingRank": 2659
   },
   {
     "collegeId": "88",
@@ -7221,7 +7485,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 4316
+    "closingRank": 2688
   },
   {
     "collegeId": "90",
@@ -7236,16 +7500,16 @@
     "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "MU",
-    "closingRank": 274
+    "category": "EZ",
+    "closingRank": 363
   },
   {
     "collegeId": "90",
     "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "EZ",
-    "closingRank": 363
+    "category": "MU",
+    "closingRank": 368
   },
   {
     "collegeId": "90",
@@ -7264,12 +7528,20 @@
     "closingRank": 883
   },
   {
+    "collegeId": "93",
+    "collegeName": "RAJADHANI INSTITUTE OF ENGINEERING AND TECHNOLOGY NAGAROOR",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "SM",
+    "closingRank": 3649
+  },
+  {
     "collegeId": "95",
     "collegeName": "RAJIV GANDHI INSTITUTE OF TECHNOLOGY KOTTAYAM",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 235
+    "closingRank": 228
   },
   {
     "collegeId": "95",
@@ -7317,7 +7589,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1686
+    "closingRank": 3529
   },
   {
     "collegeId": "101",
@@ -7325,7 +7597,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 3927
+    "closingRank": 3463
   },
   {
     "collegeId": "102",
@@ -7348,14 +7620,6 @@
     "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
-    "category": "SC",
-    "closingRank": 1245
-  },
-  {
-    "collegeId": "102",
-    "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
     "category": "MU",
     "closingRank": 1921
   },
@@ -7368,20 +7632,12 @@
     "closingRank": 4478
   },
   {
-    "collegeId": "104",
-    "collegeName": "SREE NARAYANA GURUKULAM COLLEGE OF ENGINEERING",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "SM",
-    "closingRank": 3675
-  },
-  {
     "collegeId": "106",
     "collegeName": "SREEPATHY INSTITUTE OF MANAGEMENT AND TECHNOLOGY",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2682
+    "closingRank": 3316
   },
   {
     "collegeId": "106",
@@ -7389,7 +7645,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "MU",
-    "closingRank": 3256
+    "closingRank": 3470
   },
   {
     "collegeId": "107",
@@ -7421,7 +7677,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 778
+    "closingRank": 2331
   },
   {
     "collegeId": "112",
@@ -7429,14 +7685,6 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 124
-  },
-  {
-    "collegeId": "112",
-    "collegeName": "TKM COLLEGE OF ENGINEERING",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "BH",
     "closingRank": 132
   },
   {
@@ -7444,8 +7692,16 @@
     "collegeName": "TKM COLLEGE OF ENGINEERING",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
+    "category": "BH",
+    "closingRank": 142
+  },
+  {
+    "collegeId": "112",
+    "collegeName": "TKM COLLEGE OF ENGINEERING",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
     "category": "MU",
-    "closingRank": 188
+    "closingRank": 183
   },
   {
     "collegeId": "112",
@@ -7461,7 +7717,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SC",
-    "closingRank": 1874
+    "closingRank": 695
   },
   {
     "collegeId": "113",
@@ -7493,7 +7749,7 @@
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 1232
+    "closingRank": 741
   },
   {
     "collegeId": "120",
@@ -7504,12 +7760,20 @@
     "closingRank": 1528
   },
   {
+    "collegeId": "120",
+    "collegeName": "UNIVERSITY COLLEGE OF ENGINEERING,KARIAVATTOM",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "SC",
+    "closingRank": 1874
+  },
+  {
     "collegeId": "121",
     "collegeName": "VALIA KOONAMBAIKULATHAMMA COLLEGE OF ENGINEERING & TECHNOLOGY",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
-    "closingRank": 2071
+    "closingRank": 2903
   },
   {
     "collegeId": "123",
@@ -7520,20 +7784,20 @@
     "closingRank": 651
   },
   {
+    "collegeId": "124",
+    "collegeName": "VIDYA ACADEMY OF SCIENCE AND TECHNOLOGY TECHNICAL CAMPUS",
+    "courseId": "43",
+    "courseName": "electronics and communication engineering",
+    "category": "SM",
+    "closingRank": 2417
+  },
+  {
     "collegeId": "126",
     "collegeName": "VISAT ENGINEERING COLLEGE",
     "courseId": "43",
     "courseName": "electronics and communication engineering",
     "category": "SM",
     "closingRank": 4421
-  },
-  {
-    "collegeId": "127",
-    "collegeName": "VISWAJYOTHI COLLEGE OF ENGINEERING AND TECHNOLOGY",
-    "courseId": "43",
-    "courseName": "electronics and communication engineering",
-    "category": "SM",
-    "closingRank": 4105
   },
   {
     "collegeId": "128",
@@ -7552,12 +7816,20 @@
     "closingRank": 3997
   },
   {
+    "collegeId": "18",
+    "collegeName": "COLLEGE OF ENGINEERING CHERTHALA",
+    "courseId": "44",
+    "courseName": "electronics and communication engineering - full fee",
+    "category": "SM",
+    "closingRank": 3033
+  },
+  {
     "collegeId": "82",
     "collegeName": "MODEL ENGINEERING COLLEGE",
     "courseId": "44",
     "courseName": "electronics and communication engineering - full fee",
     "category": "SM",
-    "closingRank": 1481
+    "closingRank": 999
   },
   {
     "collegeId": "102",
@@ -7565,7 +7837,7 @@
     "courseId": "44",
     "courseName": "electronics and communication engineering - full fee",
     "category": "SM",
-    "closingRank": 2226
+    "closingRank": 3722
   },
   {
     "collegeId": "26",
@@ -7573,7 +7845,7 @@
     "courseId": "45",
     "courseName": "electronics and computer engineering",
     "category": "SM",
-    "closingRank": 4384
+    "closingRank": 2926
   },
   {
     "collegeId": "28",
@@ -7600,22 +7872,6 @@
     "closingRank": 3794
   },
   {
-    "collegeId": "69",
-    "collegeName": "MANGALAM COLLEGE OF ENGINEERING",
-    "courseId": "45",
-    "courseName": "electronics and computer engineering",
-    "category": "SM",
-    "closingRank": 4537
-  },
-  {
-    "collegeId": "73",
-    "collegeName": "MARIAN ENGINEERING COLLEGE",
-    "courseId": "45",
-    "courseName": "electronics and computer engineering",
-    "category": "SM",
-    "closingRank": 3271
-  },
-  {
     "collegeId": "111",
     "collegeName": "THEJUS ENGINEERING COLLEGE",
     "courseId": "45",
@@ -7637,6 +7893,14 @@
     "courseId": "47",
     "courseName": "electronics and computer science",
     "category": "SM",
+    "closingRank": 1335
+  },
+  {
+    "collegeId": "47",
+    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
+    "courseId": "47",
+    "courseName": "electronics and computer science",
+    "category": "MU",
     "closingRank": 2281
   },
   {
@@ -7644,16 +7908,8 @@
     "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
     "courseId": "47",
     "courseName": "electronics and computer science",
-    "category": "MU",
-    "closingRank": 2347
-  },
-  {
-    "collegeId": "47",
-    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
-    "courseId": "47",
-    "courseName": "electronics and computer science",
     "category": "EZ",
-    "closingRank": 2618
+    "closingRank": 2702
   },
   {
     "collegeId": "33",
@@ -7661,7 +7917,7 @@
     "courseId": "48",
     "courseName": "electronics and instrumentation engineering",
     "category": "SM",
-    "closingRank": 788
+    "closingRank": 686
   },
   {
     "collegeId": "33",
@@ -7669,7 +7925,7 @@
     "courseId": "48",
     "courseName": "electronics and instrumentation engineering",
     "category": "MU",
-    "closingRank": 2727
+    "closingRank": 1309
   },
   {
     "collegeId": "98",
@@ -7693,7 +7949,7 @@
     "courseId": "49",
     "courseName": "electronics engineering (vlsi design and technology)",
     "category": "MU",
-    "closingRank": 1019
+    "closingRank": 906
   },
   {
     "collegeId": "82",
@@ -7720,20 +7976,12 @@
     "closingRank": 2111
   },
   {
-    "collegeId": "7",
-    "collegeName": "AMAL JYOTHI COLLEGE OF ENGINEERING",
+    "collegeId": "45",
+    "collegeName": "ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY",
     "courseId": "51",
     "courseName": "food technology",
     "category": "SM",
-    "closingRank": 2969
-  },
-  {
-    "collegeId": "101",
-    "collegeName": "SREE BUDDHA COLLEGE OF ENGINEERING PATTOOR",
-    "courseId": "51",
-    "courseName": "food technology",
-    "category": "SM",
-    "closingRank": 3690
+    "closingRank": 2010
   },
   {
     "collegeId": "30",
@@ -7741,7 +7989,7 @@
     "courseId": "52",
     "courseName": "industrial engineering",
     "category": "SM",
-    "closingRank": 484
+    "closingRank": 366
   },
   {
     "collegeId": "30",
@@ -7773,7 +8021,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 1372
+    "closingRank": 1788
   },
   {
     "collegeId": "28",
@@ -7781,7 +8029,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "EZ",
-    "closingRank": 1788
+    "closingRank": 2198
   },
   {
     "collegeId": "28",
@@ -7812,16 +8060,16 @@
     "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
     "courseId": "53",
     "courseName": "information technology",
-    "category": "EZ",
-    "closingRank": 2702
+    "category": "EWS",
+    "closingRank": 3151
   },
   {
     "collegeId": "31",
     "collegeName": "COLLEGE OF ENGINEERING VADAKARA",
     "courseId": "53",
     "courseName": "information technology",
-    "category": "EWS",
-    "closingRank": 2750
+    "category": "EZ",
+    "closingRank": 3012
   },
   {
     "collegeId": "31",
@@ -7829,7 +8077,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "MU",
-    "closingRank": 3315
+    "closingRank": 3749
   },
   {
     "collegeId": "35",
@@ -7837,7 +8085,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 376
+    "closingRank": 402
   },
   {
     "collegeId": "35",
@@ -7852,16 +8100,16 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
     "courseId": "53",
     "courseName": "information technology",
-    "category": "LC",
-    "closingRank": 1421
+    "category": "SC",
+    "closingRank": 1761
   },
   {
     "collegeId": "35",
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE BARTON HILL",
     "courseId": "53",
     "courseName": "information technology",
-    "category": "SC",
-    "closingRank": 1761
+    "category": "LC",
+    "closingRank": 2177
   },
   {
     "collegeId": "35",
@@ -7877,7 +8125,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 1042
+    "closingRank": 1084
   },
   {
     "collegeId": "36",
@@ -7885,15 +8133,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "EZ",
-    "closingRank": 1181
-  },
-  {
-    "collegeId": "36",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
-    "courseId": "53",
-    "courseName": "information technology",
-    "category": "MU",
-    "closingRank": 1164
+    "closingRank": 1385
   },
   {
     "collegeId": "36",
@@ -7901,7 +8141,15 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "EWS",
-    "closingRank": 1605
+    "closingRank": 1798
+  },
+  {
+    "collegeId": "36",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
+    "courseId": "53",
+    "courseName": "information technology",
+    "category": "MU",
+    "closingRank": 1440
   },
   {
     "collegeId": "36",
@@ -7917,7 +8165,15 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SC",
-    "closingRank": 3055
+    "closingRank": 2923
+  },
+  {
+    "collegeId": "36",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
+    "courseId": "53",
+    "courseName": "information technology",
+    "category": "PD",
+    "closingRank": 4481
   },
   {
     "collegeId": "38",
@@ -7925,7 +8181,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 452
+    "closingRank": 370
   },
   {
     "collegeId": "38",
@@ -7933,7 +8189,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "EZ",
-    "closingRank": 457
+    "closingRank": 421
   },
   {
     "collegeId": "38",
@@ -7949,7 +8205,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "EWS",
-    "closingRank": 1524
+    "closingRank": 1402
   },
   {
     "collegeId": "52",
@@ -7957,7 +8213,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 4089
+    "closingRank": 2498
   },
   {
     "collegeId": "62",
@@ -7965,7 +8221,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 2406
+    "closingRank": 2342
   },
   {
     "collegeId": "62",
@@ -7981,7 +8237,7 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 4353
+    "closingRank": 4366
   },
   {
     "collegeId": "120",
@@ -7989,7 +8245,15 @@
     "courseId": "53",
     "courseName": "information technology",
     "category": "SM",
-    "closingRank": 3588
+    "closingRank": 3105
+  },
+  {
+    "collegeId": "120",
+    "collegeName": "UNIVERSITY COLLEGE OF ENGINEERING,KARIAVATTOM",
+    "courseId": "53",
+    "courseName": "information technology",
+    "category": "MU",
+    "closingRank": 3541
   },
   {
     "collegeId": "120",
@@ -8000,12 +8264,12 @@
     "closingRank": 3688
   },
   {
-    "collegeId": "62",
-    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
-    "courseId": "54",
-    "courseName": "information technology - full fee",
-    "category": "SM",
-    "closingRank": 2010
+    "collegeId": "120",
+    "collegeName": "UNIVERSITY COLLEGE OF ENGINEERING,KARIAVATTOM",
+    "courseId": "53",
+    "courseName": "information technology",
+    "category": "SC",
+    "closingRank": 4286
   },
   {
     "collegeId": "90",
@@ -8013,14 +8277,6 @@
     "courseId": "55",
     "courseName": "instrumentation and control engineering",
     "category": "SM",
-    "closingRank": 520
-  },
-  {
-    "collegeId": "90",
-    "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
-    "courseId": "55",
-    "courseName": "instrumentation and control engineering",
-    "category": "MU",
     "closingRank": 525
   },
   {
@@ -8029,7 +8285,15 @@
     "courseId": "55",
     "courseName": "instrumentation and control engineering",
     "category": "EZ",
-    "closingRank": 777
+    "closingRank": 602
+  },
+  {
+    "collegeId": "90",
+    "collegeName": "NSS COLLEGE OF ENGINEERING, PALAKKAD",
+    "courseId": "55",
+    "courseName": "instrumentation and control engineering",
+    "category": "MU",
+    "closingRank": 779
   },
   {
     "collegeId": "90",
@@ -8045,7 +8309,7 @@
     "courseId": "55",
     "courseName": "instrumentation and control engineering",
     "category": "SM",
-    "closingRank": 3571
+    "closingRank": 3462
   },
   {
     "collegeId": "100",
@@ -8069,7 +8333,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1742
+    "closingRank": 2242
   },
   {
     "collegeId": "3",
@@ -8077,7 +8341,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4242
+    "closingRank": 3918
   },
   {
     "collegeId": "4",
@@ -8085,7 +8349,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4277
+    "closingRank": 4219
   },
   {
     "collegeId": "4",
@@ -8093,15 +8357,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "MU",
-    "closingRank": 4401
-  },
-  {
-    "collegeId": "4",
-    "collegeName": "AL AMEEN ENGINEERING COLLEGE",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 4555
+    "closingRank": 4277
   },
   {
     "collegeId": "5",
@@ -8109,7 +8365,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3959
+    "closingRank": 4128
   },
   {
     "collegeId": "6",
@@ -8125,7 +8381,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2990
+    "closingRank": 2762
   },
   {
     "collegeId": "9",
@@ -8133,7 +8389,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2945
+    "closingRank": 2678
   },
   {
     "collegeId": "10",
@@ -8141,7 +8397,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2608
+    "closingRank": 2543
   },
   {
     "collegeId": "11",
@@ -8149,6 +8405,22 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
+    "closingRank": 3024
+  },
+  {
+    "collegeId": "11",
+    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EZ",
+    "closingRank": 3746
+  },
+  {
+    "collegeId": "11",
+    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "VK",
     "closingRank": 3459
   },
   {
@@ -8157,23 +8429,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "MU",
-    "closingRank": 3664
-  },
-  {
-    "collegeId": "11",
-    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 3946
-  },
-  {
-    "collegeId": "11",
-    "collegeName": "CAPE COLLEGE OF ENGINEERING, ALAPPUZHA",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "SC",
-    "closingRank": 3941
+    "closingRank": 4375
   },
   {
     "collegeId": "12",
@@ -8182,14 +8438,6 @@
     "courseName": "mechanical engineering",
     "category": "SM",
     "closingRank": 739
-  },
-  {
-    "collegeId": "12",
-    "collegeName": "CARMEL COLLEGE OF ENGINEERING & TECHNOLOGY",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "MU",
-    "closingRank": 1392
   },
   {
     "collegeId": "12",
@@ -8205,7 +8453,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1514
+    "closingRank": 1306
   },
   {
     "collegeId": "13",
@@ -8221,7 +8469,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3567
+    "closingRank": 3369
   },
   {
     "collegeId": "14",
@@ -8229,7 +8477,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 3627
+    "closingRank": 4151
   },
   {
     "collegeId": "14",
@@ -8240,20 +8488,12 @@
     "closingRank": 4197
   },
   {
-    "collegeId": "14",
-    "collegeName": "COLLEGE OF ENGINEERING AND TECHNOLOGY PAYYANUR",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EWS",
-    "closingRank": 4207
-  },
-  {
     "collegeId": "20",
     "collegeName": "COLLEGE OF ENGINEERING KARUNAGAPPALLY",
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2483
+    "closingRank": 1860
   },
   {
     "collegeId": "20",
@@ -8269,7 +8509,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "LC",
-    "closingRank": 4161
+    "closingRank": 3081
+  },
+  {
+    "collegeId": "20",
+    "collegeName": "COLLEGE OF ENGINEERING KARUNAGAPPALLY",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "BH",
+    "closingRank": 3681
   },
   {
     "collegeId": "23",
@@ -8277,7 +8525,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3938
+    "closingRank": 3665
+  },
+  {
+    "collegeId": "23",
+    "collegeName": "COLLEGE OF ENGINEERING MUNNAR",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EZ",
+    "closingRank": 4556
   },
   {
     "collegeId": "23",
@@ -8300,8 +8556,8 @@
     "collegeName": "COLLEGE OF ENGINEERING MUNNAR",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 4556
+    "category": "SC",
+    "closingRank": 4343
   },
   {
     "collegeId": "24",
@@ -8309,7 +8565,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4375
+    "closingRank": 4304
   },
   {
     "collegeId": "25",
@@ -8317,7 +8573,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4240
+    "closingRank": 4224
   },
   {
     "collegeId": "26",
@@ -8332,16 +8588,16 @@
     "collegeName": "COLLEGE OF ENGINEERING PERUMON",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "MU",
-    "closingRank": 1863
+    "category": "EZ",
+    "closingRank": 2110
   },
   {
     "collegeId": "26",
     "collegeName": "COLLEGE OF ENGINEERING PERUMON",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 2920
+    "category": "MU",
+    "closingRank": 2343
   },
   {
     "collegeId": "26",
@@ -8349,7 +8605,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SC",
-    "closingRank": 3094
+    "closingRank": 3924
   },
   {
     "collegeId": "28",
@@ -8357,7 +8613,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 891
+    "closingRank": 850
   },
   {
     "collegeId": "28",
@@ -8365,7 +8621,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 1086
+    "closingRank": 891
   },
   {
     "collegeId": "28",
@@ -8373,7 +8629,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EWS",
-    "closingRank": 2303
+    "closingRank": 3659
   },
   {
     "collegeId": "28",
@@ -8389,7 +8645,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 104
+    "closingRank": 89
   },
   {
     "collegeId": "30",
@@ -8397,7 +8653,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 112
+    "closingRank": 104
   },
   {
     "collegeId": "30",
@@ -8405,7 +8661,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "MU",
-    "closingRank": 151
+    "closingRank": 118
   },
   {
     "collegeId": "30",
@@ -8453,14 +8709,6 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1034
-  },
-  {
-    "collegeId": "33",
-    "collegeName": "FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
     "closingRank": 1092
   },
   {
@@ -8468,16 +8716,24 @@
     "collegeName": "FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "EWS",
-    "closingRank": 2242
+    "category": "MU",
+    "closingRank": 1563
   },
   {
     "collegeId": "33",
     "collegeName": "FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "MU",
-    "closingRank": 2343
+    "category": "EZ",
+    "closingRank": 1661
+  },
+  {
+    "collegeId": "33",
+    "collegeName": "FEDERAL INSTITUTE OF SCIENCE AND TECHNOLOGY",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EWS",
+    "closingRank": 4117
   },
   {
     "collegeId": "34",
@@ -8485,7 +8741,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 541
+    "closingRank": 404
   },
   {
     "collegeId": "34",
@@ -8493,7 +8749,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "BH",
-    "closingRank": 710
+    "closingRank": 504
+  },
+  {
+    "collegeId": "34",
+    "collegeName": "GOVERNMENT COLLEGE OF ENGINEERING KANNUR",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "LC",
+    "closingRank": 1463
   },
   {
     "collegeId": "34",
@@ -8509,7 +8773,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 432
+    "closingRank": 339
   },
   {
     "collegeId": "35",
@@ -8517,7 +8781,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 494
+    "closingRank": 432
   },
   {
     "collegeId": "35",
@@ -8541,15 +8805,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 800
-  },
-  {
-    "collegeId": "36",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "MU",
-    "closingRank": 809
+    "closingRank": 784
   },
   {
     "collegeId": "36",
@@ -8557,15 +8813,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 824
-  },
-  {
-    "collegeId": "36",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EWS",
-    "closingRank": 1285
+    "closingRank": 800
   },
   {
     "collegeId": "36",
@@ -8573,7 +8821,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "BH",
-    "closingRank": 1196
+    "closingRank": 813
+  },
+  {
+    "collegeId": "36",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "MU",
+    "closingRank": 886
   },
   {
     "collegeId": "36",
@@ -8581,7 +8837,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SC",
-    "closingRank": 2714
+    "closingRank": 1226
+  },
+  {
+    "collegeId": "36",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EWS",
+    "closingRank": 1448
   },
   {
     "collegeId": "37",
@@ -8597,7 +8861,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 434
+    "closingRank": 372
   },
   {
     "collegeId": "37",
@@ -8605,7 +8869,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EWS",
-    "closingRank": 737
+    "closingRank": 1005
   },
   {
     "collegeId": "38",
@@ -8613,7 +8877,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 574
+    "closingRank": 494
   },
   {
     "collegeId": "38",
@@ -8621,7 +8885,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 622
+    "closingRank": 574
   },
   {
     "collegeId": "38",
@@ -8629,7 +8893,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "MU",
-    "closingRank": 852
+    "closingRank": 809
   },
   {
     "collegeId": "38",
@@ -8645,6 +8909,14 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
+    "closingRank": 112
+  },
+  {
+    "collegeId": "39",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EZ",
     "closingRank": 117
   },
   {
@@ -8654,14 +8926,6 @@
     "courseName": "mechanical engineering",
     "category": "MU",
     "closingRank": 163
-  },
-  {
-    "collegeId": "39",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 181
   },
   {
     "collegeId": "39",
@@ -8701,15 +8965,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 746
-  },
-  {
-    "collegeId": "40",
-    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 774
+    "closingRank": 706
   },
   {
     "collegeId": "40",
@@ -8717,7 +8973,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "BH",
-    "closingRank": 813
+    "closingRank": 726
+  },
+  {
+    "collegeId": "40",
+    "collegeName": "GOVERNMENT ENGINEERING COLLEGE WAYANAD",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EZ",
+    "closingRank": 732
   },
   {
     "collegeId": "40",
@@ -8725,7 +8989,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EWS",
-    "closingRank": 1005
+    "closingRank": 1247
   },
   {
     "collegeId": "40",
@@ -8749,7 +9013,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3585
+    "closingRank": 3735
   },
   {
     "collegeId": "44",
@@ -8757,7 +9021,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2256
+    "closingRank": 1815
   },
   {
     "collegeId": "44",
@@ -8765,7 +9029,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 2649
+    "closingRank": 2256
   },
   {
     "collegeId": "45",
@@ -8773,15 +9037,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2300
-  },
-  {
-    "collegeId": "45",
-    "collegeName": "ILAHIA COLLEGE OF ENGINEERING AND TECHNOLOGY",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "SC",
-    "closingRank": 3587
+    "closingRank": 2431
   },
   {
     "collegeId": "47",
@@ -8796,8 +9052,24 @@
     "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
     "courseId": "56",
     "courseName": "mechanical engineering",
+    "category": "VK",
+    "closingRank": 2483
+  },
+  {
+    "collegeId": "47",
+    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
     "category": "BH",
     "closingRank": 2557
+  },
+  {
+    "collegeId": "47",
+    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EZ",
+    "closingRank": 3345
   },
   {
     "collegeId": "47",
@@ -8820,32 +9092,8 @@
     "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 3024
-  },
-  {
-    "collegeId": "47",
-    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
     "category": "EWS",
-    "closingRank": 3659
-  },
-  {
-    "collegeId": "47",
-    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "LC",
-    "closingRank": 3367
-  },
-  {
-    "collegeId": "47",
-    "collegeName": "INSTITUTE OF ENGINEERING AND TECHNOLOGY,UNIVERSITY OF CALICUT",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "VK",
-    "closingRank": 4121
+    "closingRank": 3044
   },
   {
     "collegeId": "47",
@@ -8869,15 +9117,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2546
-  },
-  {
-    "collegeId": "52",
-    "collegeName": "KMCT COLLEGE OF ENGINEERING",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "MU",
-    "closingRank": 3478
+    "closingRank": 2300
   },
   {
     "collegeId": "52",
@@ -8885,7 +9125,31 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 3415
+    "closingRank": 2430
+  },
+  {
+    "collegeId": "52",
+    "collegeName": "KMCT COLLEGE OF ENGINEERING",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "VK",
+    "closingRank": 2437
+  },
+  {
+    "collegeId": "52",
+    "collegeName": "KMCT COLLEGE OF ENGINEERING",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "BH",
+    "closingRank": 2449
+  },
+  {
+    "collegeId": "52",
+    "collegeName": "KMCT COLLEGE OF ENGINEERING",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "MU",
+    "closingRank": 3378
   },
   {
     "collegeId": "59",
@@ -8925,7 +9189,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EWS",
-    "closingRank": 3204
+    "closingRank": 2303
+  },
+  {
+    "collegeId": "62",
+    "collegeName": "LBS COLLEGE OF ENGINEERING KASARAGOD.",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "SC",
+    "closingRank": 3941
   },
   {
     "collegeId": "65",
@@ -8933,7 +9205,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3973
+    "closingRank": 3347
   },
   {
     "collegeId": "65",
@@ -8941,7 +9213,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 4059
+    "closingRank": 3627
   },
   {
     "collegeId": "66",
@@ -8952,12 +9224,20 @@
     "closingRank": 3517
   },
   {
+    "collegeId": "68",
+    "collegeName": "MALABAR INSTITUTE OF TECHNOLOGY",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "SM",
+    "closingRank": 3402
+  },
+  {
     "collegeId": "69",
     "collegeName": "MANGALAM COLLEGE OF ENGINEERING",
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3402
+    "closingRank": 2990
   },
   {
     "collegeId": "70",
@@ -8965,7 +9245,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 535
+    "closingRank": 622
   },
   {
     "collegeId": "70",
@@ -8997,7 +9277,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1448
+    "closingRank": 2194
   },
   {
     "collegeId": "72",
@@ -9005,6 +9285,14 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
+    "closingRank": 2015
+  },
+  {
+    "collegeId": "72",
+    "collegeName": "MAR BASELIOS INSTITUTE OF TECHNOLOGY & SCIENCE",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "EZ",
     "closingRank": 2224
   },
   {
@@ -9013,23 +9301,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "MU",
-    "closingRank": 2431
-  },
-  {
-    "collegeId": "72",
-    "collegeName": "MAR BASELIOS INSTITUTE OF TECHNOLOGY & SCIENCE",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 2797
-  },
-  {
-    "collegeId": "73",
-    "collegeName": "MARIAN ENGINEERING COLLEGE",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "SM",
-    "closingRank": 4269
+    "closingRank": 2886
   },
   {
     "collegeId": "74",
@@ -9037,7 +9309,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2616
+    "closingRank": 2073
   },
   {
     "collegeId": "74",
@@ -9045,7 +9317,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "MU",
-    "closingRank": 2776
+    "closingRank": 2559
   },
   {
     "collegeId": "76",
@@ -9053,7 +9325,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3721
+    "closingRank": 2353
   },
   {
     "collegeId": "78",
@@ -9061,7 +9333,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4321
+    "closingRank": 4030
   },
   {
     "collegeId": "79",
@@ -9069,6 +9341,14 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
+    "closingRank": 3975
+  },
+  {
+    "collegeId": "79",
+    "collegeName": "MET'S SCHOOL OF ENGINEERING MALA",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "SC",
     "closingRank": 4282
   },
   {
@@ -9085,7 +9365,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 605
+    "closingRank": 751
   },
   {
     "collegeId": "82",
@@ -9101,7 +9381,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4265
+    "closingRank": 4238
   },
   {
     "collegeId": "85",
@@ -9117,7 +9397,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4184
+    "closingRank": 4401
   },
   {
     "collegeId": "89",
@@ -9125,7 +9405,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1912
+    "closingRank": 1863
   },
   {
     "collegeId": "90",
@@ -9133,7 +9413,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 562
+    "closingRank": 542
   },
   {
     "collegeId": "90",
@@ -9176,20 +9456,12 @@
     "closingRank": 2802
   },
   {
-    "collegeId": "92",
-    "collegeName": "PROVIDENCE COLLEGE OF ENGINEERING",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "SM",
-    "closingRank": 3519
-  },
-  {
     "collegeId": "93",
     "collegeName": "RAJADHANI INSTITUTE OF ENGINEERING AND TECHNOLOGY NAGAROOR",
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1550
+    "closingRank": 3094
   },
   {
     "collegeId": "93",
@@ -9205,7 +9477,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 331
+    "closingRank": 362
   },
   {
     "collegeId": "95",
@@ -9213,7 +9485,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EWS",
-    "closingRank": 676
+    "closingRank": 737
   },
   {
     "collegeId": "95",
@@ -9237,7 +9509,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3260
+    "closingRank": 3191
   },
   {
     "collegeId": "96",
@@ -9253,7 +9525,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1587
+    "closingRank": 1715
   },
   {
     "collegeId": "99",
@@ -9261,15 +9533,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EZ",
-    "closingRank": 1661
-  },
-  {
-    "collegeId": "99",
-    "collegeName": "SCMS SCHOOL OF ENGINEERING AND TECHNOLOGY",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "SC",
-    "closingRank": 2827
+    "closingRank": 1907
   },
   {
     "collegeId": "100",
@@ -9309,6 +9573,14 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
+    "closingRank": 688
+  },
+  {
+    "collegeId": "102",
+    "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "MU",
     "closingRank": 756
   },
   {
@@ -9324,14 +9596,6 @@
     "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "MU",
-    "closingRank": 1563
-  },
-  {
-    "collegeId": "102",
-    "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
     "category": "PD",
     "closingRank": 4522
   },
@@ -9341,7 +9605,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2416
+    "closingRank": 1706
   },
   {
     "collegeId": "103",
@@ -9349,7 +9613,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "BH",
-    "closingRank": 3813
+    "closingRank": 2416
   },
   {
     "collegeId": "104",
@@ -9357,15 +9621,23 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 4558
+    "closingRank": 3519
   },
   {
-    "collegeId": "105",
-    "collegeName": "SREE NARAYANA INSTITUTE OF TECHNOLOGY ADOOR",
+    "collegeId": "104",
+    "collegeName": "SREE NARAYANA GURUKULAM COLLEGE OF ENGINEERING",
     "courseId": "56",
     "courseName": "mechanical engineering",
-    "category": "SM",
-    "closingRank": 4475
+    "category": "MU",
+    "closingRank": 4093
+  },
+  {
+    "collegeId": "104",
+    "collegeName": "SREE NARAYANA GURUKULAM COLLEGE OF ENGINEERING",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "VK",
+    "closingRank": 4558
   },
   {
     "collegeId": "106",
@@ -9373,7 +9645,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1404
+    "closingRank": 2898
   },
   {
     "collegeId": "107",
@@ -9381,7 +9653,15 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2762
+    "closingRank": 4475
+  },
+  {
+    "collegeId": "107",
+    "collegeName": "ST JOSEPH'S COLLEGE OF ENGINEERING AND TECHNOLOGY PALAI",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
+    "category": "SC",
+    "closingRank": 4498
   },
   {
     "collegeId": "108",
@@ -9389,7 +9669,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1738
+    "closingRank": 3629
   },
   {
     "collegeId": "109",
@@ -9397,15 +9677,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 3053
-  },
-  {
-    "collegeId": "109",
-    "collegeName": "ST. THOMAS INSTITUTE FOR SCIENCE & TECHNOLOGY TRIVANDRUM",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 4001
+    "closingRank": 1550
   },
   {
     "collegeId": "110",
@@ -9413,7 +9685,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2380
+    "closingRank": 1373
   },
   {
     "collegeId": "111",
@@ -9421,7 +9693,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1805
+    "closingRank": 2716
   },
   {
     "collegeId": "112",
@@ -9429,7 +9701,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 215
+    "closingRank": 209
   },
   {
     "collegeId": "112",
@@ -9493,7 +9765,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 2119
+    "closingRank": 2000
   },
   {
     "collegeId": "118",
@@ -9517,7 +9789,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1503
+    "closingRank": 1805
   },
   {
     "collegeId": "123",
@@ -9525,7 +9797,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "EWS",
-    "closingRank": 2531
+    "closingRank": 2005
   },
   {
     "collegeId": "123",
@@ -9533,7 +9805,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SC",
-    "closingRank": 2913
+    "closingRank": 4394
   },
   {
     "collegeId": "124",
@@ -9544,20 +9816,12 @@
     "closingRank": 3609
   },
   {
-    "collegeId": "124",
-    "collegeName": "VIDYA ACADEMY OF SCIENCE AND TECHNOLOGY TECHNICAL CAMPUS",
-    "courseId": "56",
-    "courseName": "mechanical engineering",
-    "category": "EZ",
-    "closingRank": 4151
-  },
-  {
     "collegeId": "125",
     "collegeName": "VIMAL JYOTHI ENGINEERING COLLEGE",
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1373
+    "closingRank": 1086
   },
   {
     "collegeId": "125",
@@ -9580,6 +9844,14 @@
     "collegeName": "VISAT ENGINEERING COLLEGE",
     "courseId": "56",
     "courseName": "mechanical engineering",
+    "category": "MU",
+    "closingRank": 3685
+  },
+  {
+    "collegeId": "126",
+    "collegeName": "VISAT ENGINEERING COLLEGE",
+    "courseId": "56",
+    "courseName": "mechanical engineering",
     "category": "SC",
     "closingRank": 4479
   },
@@ -9589,7 +9861,7 @@
     "courseId": "56",
     "courseName": "mechanical engineering",
     "category": "SM",
-    "closingRank": 1930
+    "closingRank": 2538
   },
   {
     "collegeId": "127",
@@ -9616,6 +9888,14 @@
     "closingRank": 2168
   },
   {
+    "collegeId": "7",
+    "collegeName": "AMAL JYOTHI COLLEGE OF ENGINEERING",
+    "courseId": "57",
+    "courseName": "mechanical engineering (automobile)",
+    "category": "MU",
+    "closingRank": 3868
+  },
+  {
     "collegeId": "102",
     "collegeName": "SREE CHITRA THIRUNAL COLLEGE OF ENGINEERING",
     "courseId": "57",
@@ -9637,7 +9917,7 @@
     "courseId": "57",
     "courseName": "mechanical engineering (automobile)",
     "category": "SC",
-    "closingRank": 2794
+    "closingRank": 2827
   },
   {
     "collegeId": "105",
@@ -9661,7 +9941,7 @@
     "courseId": "60",
     "courseName": "mechanical engineering (industry integrated)",
     "category": "SM",
-    "closingRank": 1182
+    "closingRank": 1964
   },
   {
     "collegeId": "88",
@@ -9669,7 +9949,7 @@
     "courseId": "60",
     "courseName": "mechanical engineering (industry integrated)",
     "category": "SM",
-    "closingRank": 3905
+    "closingRank": 2035
   },
   {
     "collegeId": "13",
@@ -9680,12 +9960,12 @@
     "closingRank": 3864
   },
   {
-    "collegeId": "20",
-    "collegeName": "COLLEGE OF ENGINEERING KARUNAGAPPALLY",
+    "collegeId": "23",
+    "collegeName": "COLLEGE OF ENGINEERING MUNNAR",
     "courseId": "59",
     "courseName": "mechanical engineering - full fee",
     "category": "SM",
-    "closingRank": 3723
+    "closingRank": 2929
   },
   {
     "collegeId": "28",
@@ -9701,7 +9981,7 @@
     "courseId": "59",
     "courseName": "mechanical engineering - full fee",
     "category": "SM",
-    "closingRank": 4110
+    "closingRank": 4240
   },
   {
     "collegeId": "82",
@@ -9709,7 +9989,7 @@
     "courseId": "59",
     "courseName": "mechanical engineering - full fee",
     "category": "SM",
-    "closingRank": 2586
+    "closingRank": 1712
   },
   {
     "collegeId": "102",
@@ -9733,7 +10013,7 @@
     "courseId": "61",
     "courseName": "mechatronics engineering",
     "category": "SM",
-    "closingRank": 951
+    "closingRank": 2913
   },
   {
     "collegeId": "67",
@@ -9781,7 +10061,7 @@
     "courseId": "64",
     "courseName": "polymer engineering",
     "category": "SM",
-    "closingRank": 4312
+    "closingRank": 4402
   },
   {
     "collegeId": "119",
@@ -9805,7 +10085,7 @@
     "courseId": "66",
     "courseName": "printing technology",
     "category": "SM",
-    "closingRank": 1734
+    "closingRank": 1682
   },
   {
     "collegeId": "47",
@@ -9813,7 +10093,7 @@
     "courseId": "66",
     "courseName": "printing technology",
     "category": "EZ",
-    "closingRank": 1905
+    "closingRank": 1734
   },
   {
     "collegeId": "47",
@@ -9853,7 +10133,7 @@
     "courseId": "67",
     "courseName": "production engineering",
     "category": "SM",
-    "closingRank": 725
+    "closingRank": 819
   },
   {
     "collegeId": "39",
@@ -9868,16 +10148,16 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "courseId": "67",
     "courseName": "production engineering",
-    "category": "EWS",
-    "closingRank": 1402
+    "category": "BH",
+    "closingRank": 1246
   },
   {
     "collegeId": "39",
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE THRISSUR",
     "courseId": "67",
     "courseName": "production engineering",
-    "category": "BH",
-    "closingRank": 1613
+    "category": "EWS",
+    "closingRank": 1671
   },
   {
     "collegeId": "39",
@@ -9900,16 +10180,16 @@
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "courseId": "68",
     "courseName": "robotics and artificial intelligence",
-    "category": "EZ",
-    "closingRank": 744
+    "category": "MU",
+    "closingRank": 712
   },
   {
     "collegeId": "36",
     "collegeName": "GOVERNMENT ENGINEERING COLLEGE IDUKKI",
     "courseId": "68",
     "courseName": "robotics and artificial intelligence",
-    "category": "MU",
-    "closingRank": 1000
+    "category": "EZ",
+    "closingRank": 968
   },
   {
     "collegeId": "36",
@@ -9925,7 +10205,7 @@
     "courseId": "68",
     "courseName": "robotics and artificial intelligence",
     "category": "SC",
-    "closingRank": 1199
+    "closingRank": 1923
   },
   {
     "collegeId": "95",
@@ -9941,7 +10221,7 @@
     "courseId": "68",
     "courseName": "robotics and artificial intelligence",
     "category": "SC",
-    "closingRank": 2376
+    "closingRank": 1199
   },
   {
     "collegeId": "2",
@@ -9965,7 +10245,7 @@
     "courseId": "70",
     "courseName": "safety and fire engineering",
     "category": "SM",
-    "closingRank": 3647
+    "closingRank": 1969
   },
   {
     "collegeId": "59",
@@ -9981,7 +10261,7 @@
     "courseId": "70",
     "courseName": "safety and fire engineering",
     "category": "EZ",
-    "closingRank": 2080
+    "closingRank": 2245
   },
   {
     "collegeId": "69",
